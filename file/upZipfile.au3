@@ -1,0 +1,6 @@
+ControlFocus("打开","","Edit1")
+WinWait("[CLASS:#32770]","",2)
+ControlSetText("打开","","Edit1","G:\8.python\pytest_testApi\file\file.zip")
+Sleep(10)
+ControlClick("打开","","Button1")
+Sleep(10)

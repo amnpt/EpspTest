@@ -1,0 +1,13 @@
+2020-11-19 09:03:12,864 | 55 | common.Log | DEBUG | Log.py | debug | 第1.0个接口'支付宝主扫'请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"Success","nonceStr":"f869fbd62af14957adf278821ef9289c","codeUrl":"https://qr.alipay.com/bax01917nqplpwysylpx20f2","outTradeNo":"20201119094951301","amount":5}.
+2020-11-19 09:10:20,229 | 41 | common.Log | INFO | Log.py | info | (400, '请求方式有误')
+2020-11-19 09:13:23,979 | 55 | common.Log | DEBUG | Log.py | debug | 第1.0个接口'支付宝主扫'请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"Success","nonceStr":"b8d586b6dde740f99bd3974d9bffe31e","codeUrl":"https://qr.alipay.com/bax056601827o1fhk0xy20d7","outTradeNo":"20201119094951303","amount":5}.
+2020-11-19 09:13:26,037 | 55 | common.Log | DEBUG | Log.py | debug | 修改clr状态成功！
+2020-11-19 09:15:09,424 | 55 | common.Log | DEBUG | Log.py | debug | 第1.0个接口'支付宝主扫'请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"Success","nonceStr":"1b431bd8e428424b8441dc1f6c477c93","codeUrl":"https://qr.alipay.com/bax06680gfc6d05dbajf205b","outTradeNo":"20201119094951304","amount":5}.
+2020-11-19 09:15:10,070 | 55 | common.Log | DEBUG | Log.py | debug | 修改clr状态成功！
+2020-11-19 09:15:10,092 | 55 | common.Log | DEBUG | Log.py | debug | 交易成功
+2020-11-19 09:15:10,093 | 41 | common.Log | INFO | Log.py | info | {'returnCode': '0000', 'returnMsg': None, 'nonceStr': 'f6b564dc0e7a473eaa2b813d789e0298', 'customerCode': '5651200003063343', 'outTradeNo': '20201119094951304', 'transactionNo': '32202011198666914760303', 'amount': 5, 'payState': '00', 'payTime': '20201119091503', 'procedureFee': 2, 'attachData': 'attachData', 'channelOrder': None, 'openId': None, 'buyerLogonId': None, 'buyerId': None, 'terminalNo': None, 'nfcTagId': None, 'payMethod': '支付宝主扫支付', 'cashAmount': 5, 'couponAmount': None, 'payerInfo': {}, 'promotionDetail': None, 'terminalName': None, 'remark': None}
+2020-11-19 09:19:29,315 | 55 | common.Log | DEBUG | Log.py | debug | 修改clr状态成功！
+2020-11-19 09:19:29,337 | 41 | common.Log | INFO | Log.py | info | {'returnCode': '0000', 'returnMsg': None, 'nonceStr': '2c0d4e1ebfdb440998e85e243be51224', 'customerCode': '5651200003063343', 'outTradeNo': '20201119094951307', 'transactionNo': '32202011195025602765304', 'amount': 5, 'payState': '00', 'payTime': '20201119091922', 'procedureFee': 2, 'attachData': 'attachData', 'channelOrder': None, 'openId': None, 'buyerLogonId': None, 'buyerId': None, 'terminalNo': None, 'nfcTagId': None, 'payMethod': '支付宝主扫支付', 'cashAmount': 5, 'couponAmount': None, 'payerInfo': {}, 'promotionDetail': None, 'terminalName': None, 'remark': None}

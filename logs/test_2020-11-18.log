@@ -1,0 +1,4 @@
+2020-11-18 16:27:00,892 | 41 | common.Log | INFO | Log.py | info | None
+2020-11-18 16:27:51,099 | 41 | common.Log | INFO | Log.py | info | None
+2020-11-18 16:28:50,501 | 55 | common.Log | DEBUG | Log.py | debug | 第1.0个接口'支付宝主扫'请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"Success","nonceStr":"7aeff34fc9b7422a980d0d4b47570088","codeUrl":"https://qr.alipay.com/bax091424to4l1eveng8508c","outTradeNo":"20201018094951301","amount":5}.

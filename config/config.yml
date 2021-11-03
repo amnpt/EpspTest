@@ -1,0 +1,72 @@
+# http接口测试框架配置信息
+
+# 1、发送邮件信息
+email:
+    sender: 'test123@163.com'
+    receiver: 'test@epaylinks.cn'
+    smtpserver: 'smtp.163.com'
+    username: 'test123'
+    password: 'test'
+
+# 2、证书
+ppkey:
+    public_key: 'G:/SDK/cert/efps.cer'
+    private_key: 'G:/SDK/cert/efps.pfx'
+    private_key_pwd: 'Epaylinks@EFPS2018'
+
+# 3、商户证书
+customer:
+    sign_no: '20190906test10'
+    customer_code: '5651200003063343'
+
+customer1:
+    sign_no: '20201231card'
+    customer_code: '5651200003067490'
+
+customer2:
+    customer_code: '5651200003063377'
+
+# 4、运营门户登录参数
+admin:
+    admin_url: 'http://test-efps.epaylinks.cn/admin/#/login'
+    username: 'zhengyanqin'
+    password: 'KVTW1P'
+
+# 5、数据库参数
+database:
+    username: 'efps01'
+    password: 'efps01'
+    database_url: '172.20.19.201:1521/testdb'
+
+
+#url
+# 6、加解密地址：
+encrypt:
+  req_encrypt_url: 'http://172.20.4.90:8050/NotifyTest/sign.jsp'
+  auth_encrypt_url: 'http://172.20.4.91:8061/encryptByMchtPublicKey?signSN=epaylinks2021'
+
+# 7、订单操作地址
+order:
+    result_url: 'http://172.20.4.90:8110/pay/paymentQuery'
+    modify_url: 'http://172.20.4.90:8100/ArtificialModification'
+    withdrawal_url: 'http://172.20.4.90:8100/ArtificialUpdateWithdrawl'
+
+
+# 8、交易接口地址
+request_Url:
+    mainScaning_url: 'http://test-efps.epaylinks.cn/api/txs/pay/NativePayment'
+    splitPay_url: 'http://test-efps.epaylinks.cn/apitxs/pay/SplitOrder'
+    refund_apply_url: 'http://test-efps.epaylinks.cn/api/txs/pay/Refund/V2'
+    accountSplit_url: 'http://test-efps.epaylinks.cn/api/txs/split/accountSplit'
+    withdrawalToCard_url: 'http://test-efps.epaylinks.cn/api/txs/pay/withdrawalToCard'
+    withdraw_subMerchant_url: 'http://test-efps.epaylinks.cn/api/txs/pay/WithdrawalForSubMerchant'
+    protocolPayPre: 'http://test-efps.epaylinks.cn/api/txs/protocol/protocolPayPre'
+    protocolPayConfirm: 'http://test-efps.epaylinks.cn/api/txs/protocol/protocolPayConfirm'
+
+
+
+
+
+
+
+# -------日志相关--------

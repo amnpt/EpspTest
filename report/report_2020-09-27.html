@@ -1,0 +1,532 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>PyTestReport</title>
+        <meta name="generator" content="PyTestReport 0.2.1"/>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <!-- Chart CSS -->
+        <link href="https://cdn.bootcss.com/Chart.js/2.8.0-rc.1/Chart.min.css" rel="stylesheet">
+        <style type="text/css" media="screen">
+            
+body        { font-family: verdana, arial, helvetica, sans-serif; font-size: 80%; color: #888888; }
+table       { font-size: 100%; }
+pre         { color: #888888; }
+p           { margin: 20px 0; }
+/* -- heading ---------------------------------------------------------------------- */
+.heading {
+    margin: 10px;
+}
+.heading .attribute {
+    margin-top: 1ex;
+    margin-bottom: 0;
+}
+
+/* -- css div popup ------------------------------------------------------------------------ */
+a.popup_link {
+}
+a.popup_link:hover {
+    color: red;
+}
+.popup_window {
+    display: none;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    /*border: solid #627173 1px; */
+    padding: 10px;
+    background-color: #F9F9F9;
+    font-family: "Lucida Console", "Courier New", Courier, monospace;
+    text-align: left;
+    font-size: 8pt;
+    width: 100%;
+}
+
+/* -- report ------------------------------------------------------------------------ */
+tr {
+    height: 30px;
+    font-size: 14px;
+    text-align: center;
+}
+#show_detail_line {
+    margin-top: 3ex;
+    margin-bottom: 1ex;
+}
+#result_table {
+}
+#header_row {
+    font-weight: bold;
+    color: #888888;
+    background-color: #e4ecf3;
+    font-size: 16px;
+    height: 35px;
+}
+#result_table td {
+    border: 1px solid #b9b4b4a1;
+    padding: 2px;
+    word-wrap: break-word;
+}
+.middle-col {
+    border-left: 1px solid #d4cfcf8f;
+    border-right: 1px solid #d4cfcf8f;
+}
+.total-area {
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    padding: 15px;
+}
+.table { table-layout: fixed; }
+#total_row  { font-weight: bold; }
+.passClass  { background-color: #00ff3733; }
+.failClass  { background-color: #eab2b73d; }
+.errorClass { background-color: #a3c8ec2e; }
+.skipClass { background-color: #40403f38; }
+.passCase   { color: #28a745b0; }
+.failCase   { color: #dc354596; font-weight: bold; }
+.errorCase  { color: #0c6cff91; font-weight: bold; }
+.skipCase  { color: #40403f9e; }
+.hiddenRow  { display: none; }
+.testcase   { margin-left: 2em; }
+
+/* -- ending ---------------------------------------------------------------------- */
+#ending {
+    min-height: 30px;
+}
+.github {
+    height: 135px;
+    width: 135px;
+    top: 0;
+    right: 0;
+    position: absolute;
+}
+        </style>
+
+        <script src="https://cdn.bootcss.com/Chart.js/2.8.0-rc.1/Chart.min.js"></script>
+    </head>
+    <body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col" style="height: 20px;">
+                <a href="https://github.com/five3/PyTestReport" class="github">
+                    <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://github.com/five3/testqa/blob/master/images/forkme.png?raw=true" alt="Fork me on GitHub" class="github">
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-4">
+                <div class='heading'>
+                    <h2>PyTestReport</h2>
+                    
+                    <div>
+                        <p class='attribute'><strong>开始时间:</strong> 2020-09-27 16:31:07</p>
+                        <p class='attribute'><strong>执行耗时:</strong> 0.470027</p>
+                        <p class='attribute'><strong>状态:</strong>
+                            <span class="badge badge-success" style="background-color: rgb(0 255 127);">&nbsp;通过: 0&nbsp;</span>
+                            <span class="badge badge-danger" style="background-color: rgb(255, 99, 132);">&nbsp;失败：0&nbsp;</span>
+                            <span class="badge badge-primary" style="background-color: rgb(54, 162, 235);">&nbsp;错误：1&nbsp;</span>
+                            <span class="badge badge-secondary" style="background-color: rgb(201, 203, 207);">&nbsp;跳过：0&nbsp;</span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4 middle-col">
+                <div class="total-area">
+                    <h1>1</h1>
+                    <div>用例总数</div>
+                </div>
+                <div class="total-area">
+                    <h1>1</h1>
+                    <div>套件总数</div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div style="width: 50%;">
+                    <canvas id="chart-area" width="200" height="200"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <hr/>
+                <p id='show_detail_line'>显示：
+                    <a href='javascript:showCase(0)'>概要</a>
+                    <a href='javascript:showCase(1)'>失败</a>
+                    <a href='javascript:showCase(2)'>错误</a>
+                    <a href='javascript:showCase(3)'>跳过</a>
+                    <a href='javascript:showCase(4)'>全部</a>
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <table id='result_table' class="table">
+                    <colgroup>
+                        <col align='left' />
+                        <col align='right' />
+                        <col align='right' />
+                        <col align='right' />
+                        <col align='right' />
+                        <col align='right' />
+                        <col align='right' />
+                    </colgroup>
+                    <tr id='header_row'>
+                        <td style="width: 550px;">测试套件/用例</td>
+                        <td>用例总数</td>
+                        <td>通过</td>
+                        <td>失败</td>
+                        <td>错误</td>
+                        <td>跳过</td>
+                        <td>查看</td>
+                    </tr>
+                    
+                    <tr class='errorClass' type="suite" id="testclass1">
+                        <td>test_getCase</td>
+                        <td>1</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td>1</td>
+                        <td>0</td>
+                        <td><a href="javascript:showClassDetail('testclass1',1)">查看详情</a></td>
+                    </tr>
+                        
+                            
+                                <tr id='testerror.1.1' cid="testclass1" class='' type="case">
+                                    <td class='errorCase'><div class='testcase'>test_getCase</div></td>
+                                    <td colspan='6' align='center'>
+                                    <!--css div popup start-->
+                                    <a class="popup_link errorCase" onfocus='this.blur();' href="javascript:showTestDetail('div_testerror.1.1')" >
+                                        ERROR</a>
+                                    <div id='div_testerror.1.1' class="popup_window">
+                                        <div style='text-align: right; color:red;cursor:pointer'>
+                                        <a onfocus='this.blur();' onclick="document.getElementById('div_testerror.1.1').style.display = 'none';" >
+                                           [x]</a>
+                                        </div>
+                                        <pre style="font-size: 14px;">
+testerror.1.1:
+Error
+test_case_file = 'G:\\8.python\\pytest_testApi\\Params\\test_cashierPay_data.xlsx'
+
+    def cases_in_excel(test_case_file):
+    
+        change_dir = os.chdir("G:/8.python/pytest_testApi/Params")  #切换工作目录
+        test_case_file = os.path.join(os.getcwd(), test_case_file)   #获取修改后的工作目录
+        #print(test_case_file)
+        if not os.path.exists(test_case_file):
+            print("测试用例excel文件不存在或路径有误！")
+            # 找不到指定测试文件，就退出程序 os.system("exit")是用来退出cmd的
+            sys.exit()
+    
+        # 读取excel文件
+        test_case = xlrd.open_workbook(test_case_file)
+        # 获取第一个sheet，下标从0开始
+        table = test_case.sheet_by_index(0)
+        # 记录错误用例
+        error_cases = []
+        # 一张表格读取下来，其实就像个二维数组，无非是读取第一行的第几列的值，由于下标是从0开始，第一行是标题，所以从第二行开始读取数据
+        for i in range(1, table.nrows):
+            num = str(int(table.cell(i, 0).value)).replace("\n", "").replace("\r", "")  #获取第2行第1列的内容
+            api_name = table.cell(i, 1).value.replace("\n", "").replace("\r", "")
+            api_host = table.cell(i, 2).value.replace("\n", "").replace("\r", "")
+            request_url = table.cell(i, 3).value.replace("\n", "").replace("\r", "")
+            method = table.cell(i, 4).value.replace("\n", "").replace("\r", "")
+            request_data_type = table.cell(i, 5).value.replace("\n", "").replace("\r", "")
+            request_data = table.cell(i, 6).value.replace("\n", "").replace("\r", "")
+            check_point = table.cell(i, 7).value.replace("\n", "").replace("\r", "")
+            message = table.cell(i, 8).value.replace("\n", "").replace("\r", "")
+    
+            #list_data = [num, api_name, api_host, request_url, method, request_data_type, request_data, check_point, message]  # 将execl用例各字段转换为列表
+            #print(list_data)
+            #return list_data   # 返回列表，给其他函数调用
+            try:
+                # 调用接口请求方法，后面会讲到
+>               resp = request_interface(num, api_name, api_host, request_url, method, request_data_type, request_data, check_point, message)
+
+G:\8.python\pytest_testApi\testCase\test_epspNativePay.py:70: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+num = '1', api_name = '支付宝主扫', api_host = 'http://172.20.4.90:8020'
+request_url = '/txs/pay/NativePayment', method = 'POST'
+request_data_type = 'Json'
+request_data = '{"attachData":"attachData","channelType":"01","clientIp":"127.0.0.1","customerCode":"5651200003063343","noCreditCards....baidu.com","subCustomerCode":"","terminalNo":"10001","transactionEndTime":"","transactionStartTime":"20200927163051"}'
+check_point = '0000', message = '请求成功'
+
+    def request_interface(num, api_name, api_host, request_url, method,
+                        request_data_type, request_data, check_point, message):
+        # 构造请求headers
+        headers = {  'Content-Type': 'application/json; charset=UTF-8',
+                     'x-efps-sign' : Encrypt.req_encrypt(request_data),
+                     'x-efps-sign-no': '20190604yhys01'
+                     # 'x-efps-sign-no' : get_Config.get_signno_Conf()
+                    }
+        # 判断请求方式，如果是GET，则调用get请求，POST调post请求，都不是，则抛出异常
+        if method == "GET":
+            r = requests.get(url=api_host+request_url, params=json.loads(request_data), headers=headers)
+            result_json = r.json()  #引入json模板，将响应结果转变为字典格式
+            return_Code = result_json['returnCode']  #获取响应返回的returnCode值
+            if check_point == return_Code:  # 断言，判断预期值是否与响应参数returnCode一致
+                print("第{}条用例'{}'执行成功，结果返回值为\n{}. ". format(num, api_name, r.text))
+                return return_Code
+            else:
+                print("第{}条用例'{}'执行失败！！！结果返回值为\n{}.".format(num, api_name, r.text))
+                return return_Code
+    
+        elif method == "POST":
+            payload1 = json.dumps(request_data)         # 接受python的基本数据类型，然后将其序列化为string
+            payload2 = json.loads(payload1)             # 接受一个合法字符串，然后将其反序列化为python的基本数据类型
+            r = requests.post(url=api_host+request_url, data=payload2, headers=headers)
+            result_r_json = r.json()                      # 引入json模板，将响应结果转变为字典格式
+>           out_Trade_No = result_r_json['outTradeNo']    # 获取响应返回的outTradeNo值
+E           KeyError: 'outTradeNo'
+
+G:\8.python\pytest_testApi\testCase\test_epspNativePay.py:132: KeyError
+
+During handling of the above exception, another exception occurred:
+
+    def test_getCase():
+        # 执行所有测试用例，获取错误的用例
+>       error_cases = cases_in_excel("test_cashierPay_data.xlsx")
+
+G:\8.python\pytest_testApi\testCase\test_epspNativePay.py:224: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+test_case_file = 'G:\\8.python\\pytest_testApi\\Params\\test_cashierPay_data.xlsx'
+
+    def cases_in_excel(test_case_file):
+    
+        change_dir = os.chdir("G:/8.python/pytest_testApi/Params")  #切换工作目录
+        test_case_file = os.path.join(os.getcwd(), test_case_file)   #获取修改后的工作目录
+        #print(test_case_file)
+        if not os.path.exists(test_case_file):
+            print("测试用例excel文件不存在或路径有误！")
+            # 找不到指定测试文件，就退出程序 os.system("exit")是用来退出cmd的
+            sys.exit()
+    
+        # 读取excel文件
+        test_case = xlrd.open_workbook(test_case_file)
+        # 获取第一个sheet，下标从0开始
+        table = test_case.sheet_by_index(0)
+        # 记录错误用例
+        error_cases = []
+        # 一张表格读取下来，其实就像个二维数组，无非是读取第一行的第几列的值，由于下标是从0开始，第一行是标题，所以从第二行开始读取数据
+        for i in range(1, table.nrows):
+            num = str(int(table.cell(i, 0).value)).replace("\n", "").replace("\r", "")  #获取第2行第1列的内容
+            api_name = table.cell(i, 1).value.replace("\n", "").replace("\r", "")
+            api_host = table.cell(i, 2).value.replace("\n", "").replace("\r", "")
+            request_url = table.cell(i, 3).value.replace("\n", "").replace("\r", "")
+            method = table.cell(i, 4).value.replace("\n", "").replace("\r", "")
+            request_data_type = table.cell(i, 5).value.replace("\n", "").replace("\r", "")
+            request_data = table.cell(i, 6).value.replace("\n", "").replace("\r", "")
+            check_point = table.cell(i, 7).value.replace("\n", "").replace("\r", "")
+            message = table.cell(i, 8).value.replace("\n", "").replace("\r", "")
+    
+            #list_data = [num, api_name, api_host, request_url, method, request_data_type, request_data, check_point, message]  # 将execl用例各字段转换为列表
+            #print(list_data)
+            #return list_data   # 返回列表，给其他函数调用
+            try:
+                # 调用接口请求方法，后面会讲到
+                resp = request_interface(num, api_name, api_host, request_url, method, request_data_type, request_data, check_point, message)
+                logobj.info(resp, 'info')
+                print(resp)
+    
+                outTradeNo = resp['outTradeNo']
+                transactionNo = resp['transactionNo']
+                paystate = resp['payState']
+    
+    
+                if paystate != '00':
+                    # append只接收一个参数，所以要将四个参数括在一起，当一个参数来传递
+                    # 请求失败，则向error_cases中增加一条记录
+                    if transactionNo == None:
+                        transactionNo = '0'
+                        error_cases.append((outTradeNo, transactionNo, paystate, "交易异常"))
+                        logobj.info(error_cases,'info')
+                    else:
+                        error_cases.append((outTradeNo, transactionNo, paystate, "交易异常"))
+                        logobj.info(error_cases,'info')
+            except Exception as e:
+                print(e)
+                logobj.debug(e)
+>               print("订单{}交易失败，请检查失败原因！".format(outTradeNo))
+E               UnboundLocalError: local variable 'outTradeNo' referenced before assignment
+
+G:\8.python\pytest_testApi\testCase\test_epspNativePay.py:92: UnboundLocalError
+                                        </pre>
+                                    </div>
+                                    <!--css div popup end-->
+                                    </td>
+                                </tr>
+                            
+                        
+                    
+                    <tr id='total_row'>
+                        <td>总计</td>
+                        <td>1</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td>1</td>
+                        <td>0</td>
+                        <td>&nbsp;</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <div id='ending'>
+
+                </div>
+            </div>
+        </div>
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdn.bootcss.com/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://cdn.bootcss.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <script language="javascript" type="text/javascript">
+            
+output_list = Array();
+/* level - 0:Summary; 1:Failed; 2:Skip; 3:All */
+
+function showCase(level) {
+    trs = document.getElementsByTagName("tr");
+    for (var i = 0; i < trs.length; i++) {
+        tr = trs[i];
+        id = tr.id;
+
+        if (level === 0 && tr.getAttribute('type') === 'case') {
+            tr.className = 'hiddenRow';
+        } else if (level === 1) {
+            if (id.indexOf('testfail') === 0) {
+                tr.className = '';
+            } else if (tr.getAttribute('type') === 'case') {
+                tr.className = 'hiddenRow';
+            }
+        } else if (level === 2) {
+            if (id.indexOf('testerror') === 0) {
+                tr.className = '';
+            } else if (tr.getAttribute('type') === 'case') {
+                tr.className = 'hiddenRow';
+            }
+        } else if (level === 3) {
+            if (id.indexOf('testskip') === 0) {
+                tr.className = '';
+            } else if (tr.getAttribute('type') === 'case') {
+                tr.className = 'hiddenRow';
+            }
+        } else if (level === 4 && tr.getAttribute('type') === 'case') {
+            tr.className = '';
+        }
+    }
+}
+
+function showClassDetail(cid, count) {
+    var tr_list = document.querySelectorAll('tr[cid='+cid+']');
+    var toHide = 1;
+
+    for (var i = 0; i < count; i++) {
+        if (tr_list[i].className) {
+            toHide = 0;
+        }
+    }
+    for (var i = 0; i < count; i++) {
+        if (toHide) {
+            tr_list[i].className = 'hiddenRow';
+        } else {
+            tr_list[i].className = '';
+        }
+    }
+}
+
+function showTestDetail(div_id){
+    var details_div = document.getElementById(div_id);
+    var displayState = details_div.style.display;
+    if (displayState !== 'block' ) {
+        details_div.style.display = 'block';
+    } else {
+        details_div.style.display = 'none';
+    }
+}
+function html_escape(s) {
+    s = s.replace(/&/g,'&amp;');
+    s = s.replace(/</g,'&lt;');
+    s = s.replace(/>/g,'&gt;');
+    return s;
+}
+
+
+
+            (function() {
+                window.chartColors = {
+                    red: 'rgb(255, 99, 132)',
+                    orange: 'rgb(255, 159, 64)',
+                    yellow: 'rgb(255, 205, 86)',
+                    green: 'rgb(0 255 127)',
+                    blue: 'rgb(54, 162, 235)',
+                    purple: 'rgb(153, 102, 255)',
+                    grey: 'rgb(201, 203, 207)'
+                };
+                var config = {
+                    type: 'doughnut',
+                    data: {
+                        datasets: [{
+                            data: [
+                                0,
+                                0,
+                                1,
+                                0,
+                            ],
+                            backgroundColor: [
+                                window.chartColors.green,
+                                window.chartColors.red,
+                                window.chartColors.blue,
+                                window.chartColors.grey
+                            ],
+                            hoverBackgroundColor: [
+                                window.chartColors.green,
+                                window.chartColors.red,
+                                window.chartColors.blue,
+                                window.chartColors.grey
+                            ],
+                            label: 'Dataset 1'
+                        }],
+                        labels: [
+                            '通过',
+                            '失败',
+                            '错误',
+                            '跳过',
+                        ]
+                    },
+                    options: {
+                        responsive: true,
+                        legend: {
+                            position: 'top',
+                        },
+                        title: {
+                            display: true,
+                            text: '测试结果占比'
+                        },
+                        animation: {
+                            animateScale: true,
+                            animateRotate: true
+                        }
+                    }
+                };
+                window.onload = function() {
+                    var ctx = document.getElementById('chart-area').getContext('2d');
+                    window.myDoughnut = new Chart(ctx, config);
+                };
+            })();
+        </script>
+    </div>
+    </body>
+</html>

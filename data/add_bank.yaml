@@ -1,0 +1,13 @@
+
+
+-  # 添加减号可以把用例转为list，每一部分是一个字典
+# 新增报备卡
+  customer: 5651200003063343    # 所属商户名称/编号，输入查询
+  bank_account_type:            # 账户类型，下拉选择
+  card_owner: 郑小鸣             # 开户名称，文本输入
+  card_no: 6214850100221133     # 银行账号，文本输入
+  bank_name: 招商银行            # 开户银行，文本输入
+  bank_branch_nane:             # 开户支行，输入查询
+  bank_branch:                  # 联行号，自动识别
+  attcahment:                   # 附件，上传文件
+  card_photo:                   # 银行卡照片，上传照片

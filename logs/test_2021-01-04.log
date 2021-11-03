@@ -1,0 +1,528 @@
+2021-01-04 09:41:03,435 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600000","version":"v1.0"}0000
+2021-01-04 09:41:03,954 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600000","transactionNo":"SMSSN2021010410012","authCodeNo":"SMSAC2021010410012","validSeconds":"600","nonceStr":"5074009162847063"}.
+2021-01-04 09:41:03,954 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600000","transactionNo":"SMSSN2021010410012","authCodeNo":"SMSAC2021010410012","validSeconds":"600","nonceStr":"5074009162847063"}.
+2021-01-04 09:41:04,000 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600000","transactionNo":"SMSSN2021010410012","authCodeNo":"SMSAC2021010410012","validSeconds":"600","nonceStr":"5074009162847063"}
+2021-01-04 09:41:04,000 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600000","transactionNo":"SMSSN2021010410012","authCodeNo":"SMSAC2021010410012","validSeconds":"600","nonceStr":"5074009162847063"}
+2021-01-04 09:41:04,001 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"","outTradeNo":"20210104164600001","version":"v1.0"}0000
+2021-01-04 09:41:04,001 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"","outTradeNo":"20210104164600001","version":"v1.0"}0000
+2021-01-04 09:41:04,074 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2006","returnMsg":"请勿60秒内重复发送短信","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 09:41:04,074 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2006","returnMsg":"请勿60秒内重复发送短信","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 09:41:04,076 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2006","returnMsg":"请勿60秒内重复发送短信","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 09:41:04,076 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2006","returnMsg":"请勿60秒内重复发送短信","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 09:41:04,077 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 09:41:04,077 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 09:45:36,715 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600000","version":"v1.0"}0000
+2021-01-04 09:46:39,013 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600000","transactionNo":"SMSSN2021010410013","authCodeNo":"SMSAC2021010410013","validSeconds":"600","nonceStr":"5074344220527424"}.
+2021-01-04 09:46:39,013 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600000","transactionNo":"SMSSN2021010410013","authCodeNo":"SMSAC2021010410013","validSeconds":"600","nonceStr":"5074344220527424"}.
+2021-01-04 09:46:39,051 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600000","transactionNo":"SMSSN2021010410013","authCodeNo":"SMSAC2021010410013","validSeconds":"600","nonceStr":"5074344220527424"}
+2021-01-04 09:46:39,051 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600000","transactionNo":"SMSSN2021010410013","authCodeNo":"SMSAC2021010410013","validSeconds":"600","nonceStr":"5074344220527424"}
+2021-01-04 09:46:39,053 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"","outTradeNo":"20210104164600001","version":"v1.0"}0000
+2021-01-04 09:46:39,053 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"","outTradeNo":"20210104164600001","version":"v1.0"}0000
+2021-01-04 09:47:41,378 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600001","transactionNo":"SMSSN2021010410014","authCodeNo":"SMSAC2021010410014","validSeconds":"600","nonceStr":"5074406584361537"}.
+2021-01-04 09:47:41,378 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600001","transactionNo":"SMSSN2021010410014","authCodeNo":"SMSAC2021010410014","validSeconds":"600","nonceStr":"5074406584361537"}.
+2021-01-04 09:47:41,403 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600001","transactionNo":"SMSSN2021010410014","authCodeNo":"SMSAC2021010410014","validSeconds":"600","nonceStr":"5074406584361537"}
+2021-01-04 09:47:41,403 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600001","transactionNo":"SMSSN2021010410014","authCodeNo":"SMSAC2021010410014","validSeconds":"600","nonceStr":"5074406584361537"}
+2021-01-04 09:52:27,471 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600000","version":"v1.0"}0000
+2021-01-04 09:55:56,382 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600002","version":""}2004
+2021-01-04 09:56:58,707 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600002","transactionNo":"SMSSN2021010410015","authCodeNo":"SMSAC2021010410015","validSeconds":"600","nonceStr":"5074963880081869"}.
+2021-01-04 09:56:58,707 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600002","transactionNo":"SMSSN2021010410015","authCodeNo":"SMSAC2021010410015","validSeconds":"600","nonceStr":"5074963880081869"}.
+2021-01-04 09:56:58,709 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600002","transactionNo":"SMSSN2021010410015","authCodeNo":"SMSAC2021010410015","validSeconds":"600","nonceStr":"5074963880081869"}
+2021-01-04 09:56:58,709 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600002","transactionNo":"SMSSN2021010410015","authCodeNo":"SMSAC2021010410015","validSeconds":"600","nonceStr":"5074963880081869"}
+2021-01-04 09:56:58,710 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 09:56:58,710 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 09:56:58,712 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600003"}2004
+2021-01-04 09:56:58,712 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600003"}2004
+2021-01-04 09:58:00,755 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 09:58:00,755 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 09:58:00,781 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 09:58:00,781 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 09:58:00,783 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600004","version":"v1.01"}0000
+2021-01-04 09:58:00,783 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600004","version":"v1.01"}0000
+2021-01-04 09:59:03,206 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600004","transactionNo":"SMSSN2021010410016","authCodeNo":"SMSAC2021010410016","validSeconds":"600","nonceStr":"5075088408684941"}.
+2021-01-04 09:59:03,206 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600004","transactionNo":"SMSSN2021010410016","authCodeNo":"SMSAC2021010410016","validSeconds":"600","nonceStr":"5075088408684941"}.
+2021-01-04 09:59:03,244 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600004","transactionNo":"SMSSN2021010410016","authCodeNo":"SMSAC2021010410016","validSeconds":"600","nonceStr":"5075088408684941"}
+2021-01-04 09:59:03,244 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600004","transactionNo":"SMSSN2021010410016","authCodeNo":"SMSAC2021010410016","validSeconds":"600","nonceStr":"5075088408684941"}
+2021-01-04 09:59:03,245 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600005","version":"v1.011"}2004
+2021-01-04 09:59:03,245 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600005","version":"v1.011"}2004
+2021-01-04 10:00:05,295 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:版本号长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:00:05,295 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:版本号长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:00:05,321 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:版本号长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:00:05,321 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:版本号长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:00:05,323 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600006","version":"v1.0"}2004
+2021-01-04 10:00:05,323 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600006","version":"v1.0"}2004
+2021-01-04 10:01:07,367 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:商户编号与证书不一致","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:01:07,367 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:商户编号与证书不一致","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:01:07,395 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:商户编号与证书不一致","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:01:07,395 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:商户编号与证书不一致","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:01:07,397 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600007","version":"v1.0"}2004
+2021-01-04 10:01:07,397 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600007","version":"v1.0"}2004
+2021-01-04 10:02:09,440 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:02:09,440 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:02:09,467 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:02:09,467 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:02:09,469 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH011","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600008","version":"v1.0"}2004
+2021-01-04 10:02:09,469 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH011","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600008","version":"v1.0"}2004
+2021-01-04 10:03:11,515 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:商户编号与证书不一致","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:03:11,515 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:商户编号与证书不一致","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:03:11,541 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:商户编号与证书不一致","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:03:11,541 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:商户编号与证书不一致","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:24:55,313 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600011","version":"v1.0"}2004
+2021-01-04 10:25:57,378 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:卡号与商户不匹配","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:25:57,378 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:卡号与商户不匹配","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:25:57,412 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:卡号与商户不匹配","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:25:57,412 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:卡号与商户不匹配","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:25:57,413 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600012","version":"v1.0"}2004
+2021-01-04 10:25:57,413 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600012","version":"v1.0"}2004
+2021-01-04 10:26:59,456 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:26:59,456 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:26:59,484 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:26:59,484 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:26:59,487 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY0011","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600013","version":"v1.0"}2004
+2021-01-04 10:26:59,487 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY0011","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600013","version":"v1.0"}2004
+2021-01-04 10:28:01,533 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:卡号与商户不匹配","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:28:01,533 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:卡号与商户不匹配","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:28:01,574 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:卡号与商户不匹配","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:28:01,574 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:卡号与商户不匹配","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:28:01,575 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"","version":"v1.0"}2004
+2021-01-04 10:28:01,575 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"","version":"v1.0"}2004
+2021-01-04 10:29:04,010 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"","transactionNo":"SMSSN2021010410020","authCodeNo":"SMSAC2021010410020","validSeconds":"600","nonceStr":"5076889183880678"}.
+2021-01-04 10:29:04,010 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"","transactionNo":"SMSSN2021010410020","authCodeNo":"SMSAC2021010410020","validSeconds":"600","nonceStr":"5076889183880678"}.
+2021-01-04 10:29:04,012 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"","transactionNo":"SMSSN2021010410020","authCodeNo":"SMSAC2021010410020","validSeconds":"600","nonceStr":"5076889183880678"}
+2021-01-04 10:29:04,012 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"","transactionNo":"SMSSN2021010410020","authCodeNo":"SMSAC2021010410020","validSeconds":"600","nonceStr":"5076889183880678"}
+2021-01-04 10:29:04,013 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 10:29:04,013 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 10:29:04,014 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","version":"v1.0"}2004
+2021-01-04 10:29:04,014 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","version":"v1.0"}2004
+2021-01-04 10:30:06,059 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:30:06,059 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:30:06,085 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:30:06,085 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:30:06,087 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600015000000000000000","version":"v1.0"}0000
+2021-01-04 10:30:06,087 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600015000000000000000","version":"v1.0"}0000
+2021-01-04 10:31:08,416 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600015000000000000000","transactionNo":"SMSSN2021010410021","authCodeNo":"SMSAC2021010410021","validSeconds":"600","nonceStr":"5077013615144935"}.
+2021-01-04 10:31:08,416 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600015000000000000000","transactionNo":"SMSSN2021010410021","authCodeNo":"SMSAC2021010410021","validSeconds":"600","nonceStr":"5077013615144935"}.
+2021-01-04 10:31:08,445 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600015000000000000000","transactionNo":"SMSSN2021010410021","authCodeNo":"SMSAC2021010410021","validSeconds":"600","nonceStr":"5077013615144935"}
+2021-01-04 10:31:08,445 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600015000000000000000","transactionNo":"SMSSN2021010410021","authCodeNo":"SMSAC2021010410021","validSeconds":"600","nonceStr":"5077013615144935"}
+2021-01-04 10:31:08,446 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"202101041646000160000000000000000","version":"v1.0"}2004
+2021-01-04 10:31:08,446 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"202101041646000160000000000000000","version":"v1.0"}2004
+2021-01-04 10:32:10,498 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:接入方业务流水号长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:32:10,498 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:接入方业务流水号长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:32:10,524 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:接入方业务流水号长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:32:10,524 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:接入方业务流水号长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:32:10,525 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600017","version":"v1.0"}2004
+2021-01-04 10:32:10,525 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600017","version":"v1.0"}2004
+2021-01-04 10:33:12,571 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:业务类型有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:33:12,571 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:业务类型有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:33:12,598 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:业务类型有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:33:12,598 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:业务类型有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:33:12,599 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600018","version":"v1.0"}2004
+2021-01-04 10:33:12,599 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600018","version":"v1.0"}2004
+2021-01-04 10:34:14,643 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:34:14,643 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:34:14,672 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:34:14,672 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:34:14,673 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"00001","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600019","version":"v1.0"}2004
+2021-01-04 10:34:14,673 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"00001","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600019","version":"v1.0"}2004
+2021-01-04 10:35:16,719 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:业务类型长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:35:16,719 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:业务类型长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:35:16,747 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:业务类型长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:35:16,747 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:业务类型长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:35:16,748 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0001","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600020","version":"v1.0"}0000
+2021-01-04 10:35:16,748 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0001","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600020","version":"v1.0"}0000
+2021-01-04 10:36:19,058 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600020","transactionNo":"SMSSN2021010410024","authCodeNo":"SMSAC2021010410024","validSeconds":"600","nonceStr":"5077324256610831"}.
+2021-01-04 10:36:19,058 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600020","transactionNo":"SMSSN2021010410024","authCodeNo":"SMSAC2021010410024","validSeconds":"600","nonceStr":"5077324256610831"}.
+2021-01-04 10:36:19,087 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600020","transactionNo":"SMSSN2021010410024","authCodeNo":"SMSAC2021010410024","validSeconds":"600","nonceStr":"5077324256610831"}
+2021-01-04 10:36:19,087 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600020","transactionNo":"SMSSN2021010410024","authCodeNo":"SMSAC2021010410024","validSeconds":"600","nonceStr":"5077324256610831"}
+2021-01-04 10:36:19,088 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0002","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600021","version":"v1.0"}0000
+2021-01-04 10:36:19,088 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0002","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600021","version":"v1.0"}0000
+2021-01-04 10:37:21,368 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600021","transactionNo":"SMSSN2021010410025","authCodeNo":"SMSAC2021010410025","validSeconds":"600","nonceStr":"5077386565689472"}.
+2021-01-04 10:37:21,368 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600021","transactionNo":"SMSSN2021010410025","authCodeNo":"SMSAC2021010410025","validSeconds":"600","nonceStr":"5077386565689472"}.
+2021-01-04 10:37:21,397 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600021","transactionNo":"SMSSN2021010410025","authCodeNo":"SMSAC2021010410025","validSeconds":"600","nonceStr":"5077386565689472"}
+2021-01-04 10:37:21,397 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600021","transactionNo":"SMSSN2021010410025","authCodeNo":"SMSAC2021010410025","validSeconds":"600","nonceStr":"5077386565689472"}
+2021-01-04 10:37:21,398 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0003","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600022","version":"v1.0"}0000
+2021-01-04 10:37:21,398 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0003","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600022","version":"v1.0"}0000
+2021-01-04 10:38:23,670 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600022","transactionNo":"SMSSN2021010410026","authCodeNo":"SMSAC2021010410026","validSeconds":"600","nonceStr":"5077448866834234"}.
+2021-01-04 10:38:23,670 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600022","transactionNo":"SMSSN2021010410026","authCodeNo":"SMSAC2021010410026","validSeconds":"600","nonceStr":"5077448866834234"}.
+2021-01-04 10:38:23,698 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600022","transactionNo":"SMSSN2021010410026","authCodeNo":"SMSAC2021010410026","validSeconds":"600","nonceStr":"5077448866834234"}
+2021-01-04 10:38:23,698 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600022","transactionNo":"SMSSN2021010410026","authCodeNo":"SMSAC2021010410026","validSeconds":"600","nonceStr":"5077448866834234"}
+2021-01-04 10:38:23,699 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0004","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600023","version":"v1.0"}0000
+2021-01-04 10:38:23,699 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0004","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600023","version":"v1.0"}0000
+2021-01-04 10:39:25,964 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600023","transactionNo":"SMSSN2021010410027","authCodeNo":"SMSAC2021010410027","validSeconds":"600","nonceStr":"5077511160216734"}.
+2021-01-04 10:39:25,964 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600023","transactionNo":"SMSSN2021010410027","authCodeNo":"SMSAC2021010410027","validSeconds":"600","nonceStr":"5077511160216734"}.
+2021-01-04 10:39:25,991 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600023","transactionNo":"SMSSN2021010410027","authCodeNo":"SMSAC2021010410027","validSeconds":"600","nonceStr":"5077511160216734"}
+2021-01-04 10:39:25,991 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600023","transactionNo":"SMSSN2021010410027","authCodeNo":"SMSAC2021010410027","validSeconds":"600","nonceStr":"5077511160216734"}
+2021-01-04 10:39:25,993 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0005","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600024","version":"v1.0"}0000
+2021-01-04 10:39:25,993 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0005","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600024","version":"v1.0"}0000
+2021-01-04 10:40:28,248 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600024","transactionNo":"SMSSN2021010410028","authCodeNo":"SMSAC2021010410028","validSeconds":"600","nonceStr":"5077573445038405"}.
+2021-01-04 10:40:28,248 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600024","transactionNo":"SMSSN2021010410028","authCodeNo":"SMSAC2021010410028","validSeconds":"600","nonceStr":"5077573445038405"}.
+2021-01-04 10:40:28,278 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600024","transactionNo":"SMSSN2021010410028","authCodeNo":"SMSAC2021010410028","validSeconds":"600","nonceStr":"5077573445038405"}
+2021-01-04 10:40:28,278 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600024","transactionNo":"SMSSN2021010410028","authCodeNo":"SMSAC2021010410028","validSeconds":"600","nonceStr":"5077573445038405"}
+2021-01-04 10:40:28,279 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600025","version":"v1.0"}0000
+2021-01-04 10:40:28,279 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600025","version":"v1.0"}0000
+2021-01-04 10:41:30,583 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600025","transactionNo":"SMSSN2021010410029","authCodeNo":"SMSAC2021010410029","validSeconds":"600","nonceStr":"5077635778159521"}.
+2021-01-04 10:41:30,583 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600025","transactionNo":"SMSSN2021010410029","authCodeNo":"SMSAC2021010410029","validSeconds":"600","nonceStr":"5077635778159521"}.
+2021-01-04 10:41:30,611 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600025","transactionNo":"SMSSN2021010410029","authCodeNo":"SMSAC2021010410029","validSeconds":"600","nonceStr":"5077635778159521"}
+2021-01-04 10:41:30,611 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600025","transactionNo":"SMSSN2021010410029","authCodeNo":"SMSAC2021010410029","validSeconds":"600","nonceStr":"5077635778159521"}
+2021-01-04 10:51:40,115 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600026","version":"v1.0"}2004
+2021-01-04 10:52:58,364 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600026","version":"v1.0"}2004
+2021-01-04 10:54:00,474 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:会员卡号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:54:00,474 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:会员卡号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:54:00,501 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 10:54:00,501 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 10:54:00,502 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 10:54:00,502 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 10:54:00,503 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600027","version":"v1.0"}2004
+2021-01-04 10:54:00,503 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600027","version":"v1.0"}2004
+2021-01-04 10:55:02,557 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:55:02,557 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:55:02,584 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:55:02,584 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:55:02,586 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600028","version":"v1.0"}0000
+2021-01-04 10:55:02,586 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600028","version":"v1.0"}0000
+2021-01-04 10:55:14,616 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600026","version":"v1.0"}2004
+2021-01-04 10:56:16,679 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:会员卡号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:56:16,679 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:会员卡号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:56:16,704 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:会员卡号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:56:16,704 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:会员卡号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:56:16,706 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600027","version":"v1.0"}2004
+2021-01-04 10:56:16,706 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600027","version":"v1.0"}2004
+2021-01-04 10:57:18,748 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:57:18,748 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:57:18,770 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:57:18,770 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:57:18,772 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600028","version":"v1.0"}0000
+2021-01-04 10:57:18,772 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600028","version":"v1.0"}0000
+2021-01-04 10:58:21,101 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600028","transactionNo":"SMSSN2021010410032","authCodeNo":"SMSAC2021010410032","validSeconds":"600","nonceStr":"5078646289698764"}.
+2021-01-04 10:58:21,101 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600028","transactionNo":"SMSSN2021010410032","authCodeNo":"SMSAC2021010410032","validSeconds":"600","nonceStr":"5078646289698764"}.
+2021-01-04 10:58:21,124 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600028","transactionNo":"SMSSN2021010410032","authCodeNo":"SMSAC2021010410032","validSeconds":"600","nonceStr":"5078646289698764"}
+2021-01-04 10:58:21,124 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600028","transactionNo":"SMSSN2021010410032","authCodeNo":"SMSAC2021010410032","validSeconds":"600","nonceStr":"5078646289698764"}
+2021-01-04 10:58:21,125 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104501","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600029","version":"v1.0"}2004
+2021-01-04 10:58:21,125 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104501","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600029","version":"v1.0"}2004
+2021-01-04 10:59:23,177 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:59:23,177 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 10:59:23,199 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:59:23,199 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 10:59:23,201 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600030","version":"v1.0"}2004
+2021-01-04 10:59:23,201 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600030","version":"v1.0"}2004
+2021-01-04 11:00:25,256 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:手机号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:00:25,256 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:手机号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:00:25,292 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:手机号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:00:25,292 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:手机号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:00:25,293 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600031","version":"v1.0"}2004
+2021-01-04 11:00:25,293 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600031","version":"v1.0"}2004
+2021-01-04 11:01:27,359 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:01:27,359 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:01:27,381 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:01:27,381 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:01:27,383 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"1111117205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600032","version":"v1.0"}2004
+2021-01-04 11:01:27,383 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"1111117205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600032","version":"v1.0"}2004
+2021-01-04 11:02:29,671 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600032","transactionNo":"SMSSN2021010410033","authCodeNo":"SMSAC2021010410033","validSeconds":"600","nonceStr":"5078894838825148"}.
+2021-01-04 11:02:29,671 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600032","transactionNo":"SMSSN2021010410033","authCodeNo":"SMSAC2021010410033","validSeconds":"600","nonceStr":"5078894838825148"}.
+2021-01-04 11:02:29,673 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600032","transactionNo":"SMSSN2021010410033","authCodeNo":"SMSAC2021010410033","validSeconds":"600","nonceStr":"5078894838825148"}
+2021-01-04 11:02:29,673 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600032","transactionNo":"SMSSN2021010410033","authCodeNo":"SMSAC2021010410033","validSeconds":"600","nonceStr":"5078894838825148"}
+2021-01-04 11:02:29,674 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 11:02:29,674 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 11:02:29,675 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"189339742051","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600033","version":"v1.0"}2004
+2021-01-04 11:02:29,675 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"189339742051","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600033","version":"v1.0"}2004
+2021-01-04 11:03:31,720 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:手机号码长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:03:31,720 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:手机号码长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:03:31,743 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:手机号码长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:03:31,743 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:手机号码长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:03:31,744 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974204","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600034","version":"v1.0"}2004
+2021-01-04 11:03:31,744 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974204","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600034","version":"v1.0"}2004
+2021-01-04 11:04:34,047 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600034","transactionNo":"SMSSN2021010410035","authCodeNo":"SMSAC2021010410035","validSeconds":"600","nonceStr":"5079019215266002"}.
+2021-01-04 11:04:34,047 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600034","transactionNo":"SMSSN2021010410035","authCodeNo":"SMSAC2021010410035","validSeconds":"600","nonceStr":"5079019215266002"}.
+2021-01-04 11:04:34,048 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600034","transactionNo":"SMSSN2021010410035","authCodeNo":"SMSAC2021010410035","validSeconds":"600","nonceStr":"5079019215266002"}
+2021-01-04 11:04:34,048 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600034","transactionNo":"SMSSN2021010410035","authCodeNo":"SMSAC2021010410035","validSeconds":"600","nonceStr":"5079019215266002"}
+2021-01-04 11:04:34,050 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 11:04:34,050 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 11:04:34,051 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c1","outTradeNo":"20210104164600035","version":"v1.0"}2004
+2021-01-04 11:04:34,051 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c1","outTradeNo":"20210104164600035","version":"v1.0"}2004
+2021-01-04 11:05:36,094 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:随机字符串长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:05:36,094 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:随机字符串长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:05:36,116 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:随机字符串长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:05:36,116 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:随机字符串长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:00,748 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600026","version":"v1.0"}2004
+2021-01-04 11:31:00,832 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:会员卡号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:00,832 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:会员卡号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:00,859 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:00,859 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:00,860 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:00,860 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:00,862 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600027","version":"v1.0"}2004
+2021-01-04 11:31:00,862 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600027","version":"v1.0"}2004
+2021-01-04 11:31:00,904 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:00,904 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:00,927 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:00,927 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:00,929 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:00,929 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:00,930 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600028","version":"v1.0"}0000
+2021-01-04 11:31:00,930 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600028","version":"v1.0"}0000
+2021-01-04 11:31:01,283 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600028","transactionNo":"SMSSN2021010410036","authCodeNo":"SMSAC2021010410036","validSeconds":"600","nonceStr":"5080606463757942"}.
+2021-01-04 11:31:01,283 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20210104164600028","transactionNo":"SMSSN2021010410036","authCodeNo":"SMSAC2021010410036","validSeconds":"600","nonceStr":"5080606463757942"}.
+2021-01-04 11:31:01,315 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:01,315 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:01,316 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:01,316 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:01,317 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104501","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600029","version":"v1.0"}2004
+2021-01-04 11:31:01,317 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104501","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600029","version":"v1.0"}2004
+2021-01-04 11:31:01,366 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:01,366 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:01,389 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:01,389 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:01,390 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:01,390 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:01,391 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600030","version":"v1.0"}2004
+2021-01-04 11:31:01,391 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600030","version":"v1.0"}2004
+2021-01-04 11:31:01,433 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:手机号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:01,433 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:手机号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:01,456 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:01,456 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:01,457 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:01,457 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:01,458 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600031","version":"v1.0"}2004
+2021-01-04 11:31:01,458 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600031","version":"v1.0"}2004
+2021-01-04 11:31:01,510 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:01,510 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:01,534 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:01,534 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:01,535 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:01,535 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:01,537 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"1111117205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600032","version":"v1.0"}2004
+2021-01-04 11:31:01,537 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"1111117205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600032","version":"v1.0"}2004
+2021-01-04 11:31:01,751 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:01,751 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:01,752 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:01,752 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:01,754 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"189339742051","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600033","version":"v1.0"}2004
+2021-01-04 11:31:01,754 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"189339742051","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600033","version":"v1.0"}2004
+2021-01-04 11:31:01,795 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:手机号码长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:01,795 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:手机号码长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:01,818 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:01,818 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:01,820 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:01,820 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:01,821 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974204","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600034","version":"v1.0"}2004
+2021-01-04 11:31:01,821 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974204","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600034","version":"v1.0"}2004
+2021-01-04 11:31:02,024 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:02,024 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:02,026 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:02,026 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:02,027 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c1","outTradeNo":"20210104164600035","version":"v1.0"}2004
+2021-01-04 11:31:02,027 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c1","outTradeNo":"20210104164600035","version":"v1.0"}2004
+2021-01-04 11:31:02,069 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:随机字符串长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:02,069 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:随机字符串长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:02,091 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:02,091 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:31:02,093 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:02,093 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:31:30,149 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600026","version":"v1.0"}2004
+2021-01-04 11:31:30,207 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:会员卡号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,207 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:会员卡号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,234 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:会员卡号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,234 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:会员卡号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,235 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600027","version":"v1.0"}2004
+2021-01-04 11:31:30,235 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600027","version":"v1.0"}2004
+2021-01-04 11:31:30,275 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,275 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,295 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,295 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,297 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600028","version":"v1.0"}0000
+2021-01-04 11:31:30,297 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600028","version":"v1.0"}0000
+2021-01-04 11:31:30,363 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2006","returnMsg":"请勿60秒内重复发送短信","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,363 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2006","returnMsg":"请勿60秒内重复发送短信","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,364 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2006","returnMsg":"请勿60秒内重复发送短信","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,364 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2006","returnMsg":"请勿60秒内重复发送短信","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,366 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 11:31:30,366 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 11:31:30,367 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104501","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600029","version":"v1.0"}2004
+2021-01-04 11:31:30,367 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104501","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600029","version":"v1.0"}2004
+2021-01-04 11:31:30,419 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,419 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,449 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,449 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,450 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600030","version":"v1.0"}2004
+2021-01-04 11:31:30,450 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600030","version":"v1.0"}2004
+2021-01-04 11:31:30,495 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:手机号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,495 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:手机号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,516 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:手机号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,516 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:手机号格式有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,517 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600031","version":"v1.0"}2004
+2021-01-04 11:31:30,517 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600031","version":"v1.0"}2004
+2021-01-04 11:31:30,562 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,562 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,587 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,587 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,589 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"1111117205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600032","version":"v1.0"}2004
+2021-01-04 11:31:30,589 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"1111117205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600032","version":"v1.0"}2004
+2021-01-04 11:31:30,660 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2006","returnMsg":"请勿60秒内重复发送短信","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,660 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2006","returnMsg":"请勿60秒内重复发送短信","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,662 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2006","returnMsg":"请勿60秒内重复发送短信","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,662 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2006","returnMsg":"请勿60秒内重复发送短信","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,663 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 11:31:30,663 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 11:31:30,665 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"189339742051","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600033","version":"v1.0"}2004
+2021-01-04 11:31:30,665 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"189339742051","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600033","version":"v1.0"}2004
+2021-01-04 11:31:30,710 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:手机号码长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,710 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:手机号码长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,729 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:手机号码长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,729 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:手机号码长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,731 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974204","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600034","version":"v1.0"}2004
+2021-01-04 11:31:30,731 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974204","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20210104164600034","version":"v1.0"}2004
+2021-01-04 11:31:30,800 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2006","returnMsg":"请勿60秒内重复发送短信","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,800 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2006","returnMsg":"请勿60秒内重复发送短信","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,802 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2006","returnMsg":"请勿60秒内重复发送短信","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,802 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2006","returnMsg":"请勿60秒内重复发送短信","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,804 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 11:31:30,804 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 11:31:30,805 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c1","outTradeNo":"20210104164600035","version":"v1.0"}2004
+2021-01-04 11:31:30,805 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c1","outTradeNo":"20210104164600035","version":"v1.0"}2004
+2021-01-04 11:31:30,853 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:随机字符串长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,853 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:随机字符串长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2021-01-04 11:31:30,874 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:随机字符串长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:31:30,874 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:随机字符串长度有误","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2021-01-04 11:35:12,608 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/cardOp/activePOST{"appId":"HY001","cardNo":"0016202021010400","devId":"SH001","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364b","outTradeNo":"202101041116020000","remarks":"ActiveCard","version": "v1.0"}0000
+2021-01-04 11:35:12,709 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"cardNo":null,"state":null,"nonceStr":null}.
+2021-01-04 11:35:12,709 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"cardNo":null,"state":null,"nonceStr":null}.
+2021-01-04 11:35:12,710 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"cardNo":null,"state":null,"nonceStr":null}
+2021-01-04 11:35:12,710 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"cardNo":null,"state":null,"nonceStr":null}
+2021-01-04 11:35:12,712 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 11:35:12,712 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 11:44:32,095 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/cardOp/regOpenPOST{  "appId": "HY001",  "authCode": "377600",  "authCodeNo": "SMSAC2021010410024",  "cardNo": "0016202021010400",  "devId": "SH001",  "memberNo": "memberNo2020010401",  "mobile": "15989101463",  "name": "zhengxiaojian",  "nonceStr": "b3b2d9ed8d4548f4925dbbdb0d57364d",  "outTradeNo": "202101041142020000",  "payPassword": "123456",  "version": "v1.0"}0000
+2021-01-04 11:44:32,202 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2021-01-04 11:44:32,203 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2021-01-04 11:44:44,614 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/cardOp/regOpenPOST{  "appId": "HY001",  "authCode": "377600",  "authCodeNo": "SMSAC2021010410024",  "cardNo": "0016202021010400",  "devId": "SH001",  "memberNo": "memberNo2020010401",  "mobile": "15989101463",  "name": "zhengxiaojian",  "nonceStr": "b3b2d9ed8d4548f4925dbbdb0d57364d",  "outTradeNo": "202101041142020000",  "payPassword": "123456",  "version": "v1.0"}0000
+2021-01-04 11:44:44,723 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:支付密码解密失败","outTradeNo":null,"transactionNo":null,"nonceStr":null}.
+2021-01-04 11:44:44,723 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:支付密码解密失败","outTradeNo":null,"transactionNo":null,"nonceStr":null}.
+2021-01-04 11:44:44,724 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:支付密码解密失败","outTradeNo":null,"transactionNo":null,"nonceStr":null}
+2021-01-04 11:44:44,724 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:支付密码解密失败","outTradeNo":null,"transactionNo":null,"nonceStr":null}
+2021-01-04 11:44:44,726 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 11:44:44,726 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 14:13:32,490 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/cardOp/activePOST{"appId":"HY001","cardNo":"0016202021010400","devId":"SH001","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364b","outTradeNo":"202101041116020000","remarks":"ActiveCard","version": "v1.0"}0000
+2021-01-04 14:13:32,602 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"cardNo":null,"state":null,"nonceStr":null}.
+2021-01-04 14:13:32,602 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"cardNo":null,"state":null,"nonceStr":null}.
+2021-01-04 14:13:32,603 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"cardNo":null,"state":null,"nonceStr":null}
+2021-01-04 14:13:32,603 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:卡号有误","outTradeNo":null,"transactionNo":null,"cardNo":null,"state":null,"nonceStr":null}
+2021-01-04 14:13:32,604 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2021-01-04 14:13:32,604 | 42 | common.Log | INFO | Log.py | info | 接口请求失败

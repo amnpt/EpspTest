@@ -1,0 +1,457 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>PyTestReport</title>
+        <meta name="generator" content="PyTestReport 0.2.1"/>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <!-- Chart CSS -->
+        <link href="https://cdn.bootcss.com/Chart.js/2.8.0-rc.1/Chart.min.css" rel="stylesheet">
+        <style type="text/css" media="screen">
+            
+body        { font-family: verdana, arial, helvetica, sans-serif; font-size: 80%; color: #888888; }
+table       { font-size: 100%; }
+pre         { color: #888888; }
+p           { margin: 20px 0; }
+/* -- heading ---------------------------------------------------------------------- */
+.heading {
+    margin: 10px;
+}
+.heading .attribute {
+    margin-top: 1ex;
+    margin-bottom: 0;
+}
+
+/* -- css div popup ------------------------------------------------------------------------ */
+a.popup_link {
+}
+a.popup_link:hover {
+    color: red;
+}
+.popup_window {
+    display: none;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    /*border: solid #627173 1px; */
+    padding: 10px;
+    background-color: #F9F9F9;
+    font-family: "Lucida Console", "Courier New", Courier, monospace;
+    text-align: left;
+    font-size: 8pt;
+    width: 100%;
+}
+
+/* -- report ------------------------------------------------------------------------ */
+tr {
+    height: 30px;
+    font-size: 14px;
+    text-align: center;
+}
+#show_detail_line {
+    margin-top: 3ex;
+    margin-bottom: 1ex;
+}
+#result_table {
+}
+#header_row {
+    font-weight: bold;
+    color: #888888;
+    background-color: #e4ecf3;
+    font-size: 16px;
+    height: 35px;
+}
+#result_table td {
+    border: 1px solid #b9b4b4a1;
+    padding: 2px;
+    word-wrap: break-word;
+}
+.middle-col {
+    border-left: 1px solid #d4cfcf8f;
+    border-right: 1px solid #d4cfcf8f;
+}
+.total-area {
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    padding: 15px;
+}
+.table { table-layout: fixed; }
+#total_row  { font-weight: bold; }
+.passClass  { background-color: #00ff3733; }
+.failClass  { background-color: #eab2b73d; }
+.errorClass { background-color: #a3c8ec2e; }
+.skipClass { background-color: #40403f38; }
+.passCase   { color: #28a745b0; }
+.failCase   { color: #dc354596; font-weight: bold; }
+.errorCase  { color: #0c6cff91; font-weight: bold; }
+.skipCase  { color: #40403f9e; }
+.hiddenRow  { display: none; }
+.testcase   { margin-left: 2em; }
+
+/* -- ending ---------------------------------------------------------------------- */
+#ending {
+    min-height: 30px;
+}
+.github {
+    height: 135px;
+    width: 135px;
+    top: 0;
+    right: 0;
+    position: absolute;
+}
+        </style>
+
+        <script src="https://cdn.bootcss.com/Chart.js/2.8.0-rc.1/Chart.min.js"></script>
+    </head>
+    <body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col" style="height: 20px;">
+                <a href="https://github.com/five3/PyTestReport" class="github">
+                    <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://github.com/five3/testqa/blob/master/images/forkme.png?raw=true" alt="Fork me on GitHub" class="github">
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-4">
+                <div class='heading'>
+                    <h2>PyTestReport</h2>
+                    
+                    <div>
+                        <p class='attribute'><strong>开始时间:</strong> 2020-09-24 14:57:23</p>
+                        <p class='attribute'><strong>执行耗时:</strong> 2.138122</p>
+                        <p class='attribute'><strong>状态:</strong>
+                            <span class="badge badge-success" style="background-color: rgb(0 255 127);">&nbsp;通过: 0&nbsp;</span>
+                            <span class="badge badge-danger" style="background-color: rgb(255, 99, 132);">&nbsp;失败：0&nbsp;</span>
+                            <span class="badge badge-primary" style="background-color: rgb(54, 162, 235);">&nbsp;错误：1&nbsp;</span>
+                            <span class="badge badge-secondary" style="background-color: rgb(201, 203, 207);">&nbsp;跳过：0&nbsp;</span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4 middle-col">
+                <div class="total-area">
+                    <h1>1</h1>
+                    <div>用例总数</div>
+                </div>
+                <div class="total-area">
+                    <h1>1</h1>
+                    <div>套件总数</div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div style="width: 50%;">
+                    <canvas id="chart-area" width="200" height="200"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <hr/>
+                <p id='show_detail_line'>显示：
+                    <a href='javascript:showCase(0)'>概要</a>
+                    <a href='javascript:showCase(1)'>失败</a>
+                    <a href='javascript:showCase(2)'>错误</a>
+                    <a href='javascript:showCase(3)'>跳过</a>
+                    <a href='javascript:showCase(4)'>全部</a>
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <table id='result_table' class="table">
+                    <colgroup>
+                        <col align='left' />
+                        <col align='right' />
+                        <col align='right' />
+                        <col align='right' />
+                        <col align='right' />
+                        <col align='right' />
+                        <col align='right' />
+                    </colgroup>
+                    <tr id='header_row'>
+                        <td style="width: 550px;">测试套件/用例</td>
+                        <td>用例总数</td>
+                        <td>通过</td>
+                        <td>失败</td>
+                        <td>错误</td>
+                        <td>跳过</td>
+                        <td>查看</td>
+                    </tr>
+                    
+                    <tr class='errorClass' type="suite" id="testclass1">
+                        <td>test_getCase</td>
+                        <td>1</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td>1</td>
+                        <td>0</td>
+                        <td><a href="javascript:showClassDetail('testclass1',1)">查看详情</a></td>
+                    </tr>
+                        
+                            
+                                <tr id='testerror.1.1' cid="testclass1" class='' type="case">
+                                    <td class='errorCase'><div class='testcase'>test_getCase</div></td>
+                                    <td colspan='6' align='center'>
+                                    <!--css div popup start-->
+                                    <a class="popup_link errorCase" onfocus='this.blur();' href="javascript:showTestDetail('div_testerror.1.1')" >
+                                        ERROR</a>
+                                    <div id='div_testerror.1.1' class="popup_window">
+                                        <div style='text-align: right; color:red;cursor:pointer'>
+                                        <a onfocus='this.blur();' onclick="document.getElementById('div_testerror.1.1').style.display = 'none';" >
+                                           [x]</a>
+                                        </div>
+                                        <pre style="font-size: 14px;">
+testerror.1.1:
+Error
+def test_getCase():
+        # 执行所有测试用例，获取错误的用例
+        error_cases = cases_in_excel("test_cashierPay_data.xlsx")
+        #error_cases = get_error_cases()
+        # 如果有错误接口，则开始构造html报告
+        if len(error_cases) > 0:
+            # html = '<html><body>接口自动化扫描，共有 ' + str(len(error_cases)) + ' 个异常接口，列表如下：' + '</p><table><tr><th style="width:100px;text-align:left">接口</th><th style="width:50px;text-align:left">状态</th><th style="width:200px;text-align:left">接口地址</th><th   style="text-align:left">接口返回值</th></tr>'
+            html = '<html><body>主扫交易自动化测试，共有 ' + str(len(error_cases)) + ' 个异常交易，列表如下：' + '</p><table><tr><th style="width:100px;text-align:left">外部订单号</th><th style="width:200px;text-align:left">易票联订单号</th><th   style="text-align:left">交易状态</th><th   style="text-align:left">交易情况</th></tr>'
+            for test in error_cases:
+                # html = html + '<tr><td style="text-align:left">' + test[0] + '</td><td style="text-align:left">' + test[1] + '</td><td style="text-align:left">' + test[2] + '</td><td style="text-align:left">' + test[3] + '</td></tr>'
+                html = html + '<tr><td style="text-align:left">' + test[0] + '</td><td style="text-align:left">' + test[1] + '</td><td style="text-align:left">' + test[2] + '</td><td style="text-align:left">' + test[3] + '</td></tr>'
+>           Email.send_email(html)
+
+G:\8.python\pytest_testApi\testCase\test_epspNativePay.py:227: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+G:\8.python\pytest_testApi\common\Email.py:15: in send_email
+    sender, receiver, smtpserver, username, password = get_Config.get_email_Conf()
+G:\8.python\pytest_testApi\common\get_Config.py:7: in get_email_Conf
+    dic = yaml.load(cfg,Loader=yaml.FullLoader)
+F:\Python\lib\site-packages\yaml\__init__.py:114: in load
+    return loader.get_single_data()
+F:\Python\lib\site-packages\yaml\constructor.py:49: in get_single_data
+    node = self.get_single_node()
+F:\Python\lib\site-packages\yaml\composer.py:36: in get_single_node
+    document = self.compose_document()
+F:\Python\lib\site-packages\yaml\composer.py:55: in compose_document
+    node = self.compose_node(None, None)
+F:\Python\lib\site-packages\yaml\composer.py:84: in compose_node
+    node = self.compose_mapping_node(anchor)
+F:\Python\lib\site-packages\yaml\composer.py:133: in compose_mapping_node
+    item_value = self.compose_node(node, item_key)
+F:\Python\lib\site-packages\yaml\composer.py:84: in compose_node
+    node = self.compose_mapping_node(anchor)
+F:\Python\lib\site-packages\yaml\composer.py:127: in compose_mapping_node
+    while not self.check_event(MappingEndEvent):
+F:\Python\lib\site-packages\yaml\parser.py:98: in check_event
+    self.current_event = self.state()
+F:\Python\lib\site-packages\yaml\parser.py:428: in parse_block_mapping_key
+    if self.check_token(KeyToken):
+F:\Python\lib\site-packages\yaml\scanner.py:115: in check_token
+    while self.need_more_tokens():
+F:\Python\lib\site-packages\yaml\scanner.py:152: in need_more_tokens
+    self.stale_possible_simple_keys()
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = <yaml.loader.FullLoader object at 0x00000000047A6C18>
+
+    def stale_possible_simple_keys(self):
+        # Remove entries that are no longer possible simple keys. According to
+        # the YAML specification, simple keys
+        # - should be limited to a single line,
+        # - should be no longer than 1024 characters.
+        # Disabling this procedure will allow simple keys of any length and
+        # height (may cause problems if indentation is broken though).
+        for level in list(self.possible_simple_keys):
+            key = self.possible_simple_keys[level]
+            if key.line != self.line  \
+                    or self.index-key.index > 1024:
+                if key.required:
+                    raise ScannerError("while scanning a simple key", key.mark,
+>                           "could not find expected ':'", self.get_mark())
+E                   yaml.scanner.ScannerError: while scanning a simple key
+E                     in "<unicode string>", line 31, column 1:
+E                       LOG_LEVEL = 'debug'
+E                       ^
+E                   could not find expected ':'
+E                     in "<unicode string>", line 33, column 1:
+E                       # 屏幕输出流
+E                       ^
+
+F:\Python\lib\site-packages\yaml\scanner.py:292: ScannerError
+                                        </pre>
+                                    </div>
+                                    <!--css div popup end-->
+                                    </td>
+                                </tr>
+                            
+                        
+                    
+                    <tr id='total_row'>
+                        <td>总计</td>
+                        <td>1</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td>1</td>
+                        <td>0</td>
+                        <td>&nbsp;</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <div id='ending'>
+
+                </div>
+            </div>
+        </div>
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdn.bootcss.com/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://cdn.bootcss.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <script language="javascript" type="text/javascript">
+            
+output_list = Array();
+/* level - 0:Summary; 1:Failed; 2:Skip; 3:All */
+
+function showCase(level) {
+    trs = document.getElementsByTagName("tr");
+    for (var i = 0; i < trs.length; i++) {
+        tr = trs[i];
+        id = tr.id;
+
+        if (level === 0 && tr.getAttribute('type') === 'case') {
+            tr.className = 'hiddenRow';
+        } else if (level === 1) {
+            if (id.indexOf('testfail') === 0) {
+                tr.className = '';
+            } else if (tr.getAttribute('type') === 'case') {
+                tr.className = 'hiddenRow';
+            }
+        } else if (level === 2) {
+            if (id.indexOf('testerror') === 0) {
+                tr.className = '';
+            } else if (tr.getAttribute('type') === 'case') {
+                tr.className = 'hiddenRow';
+            }
+        } else if (level === 3) {
+            if (id.indexOf('testskip') === 0) {
+                tr.className = '';
+            } else if (tr.getAttribute('type') === 'case') {
+                tr.className = 'hiddenRow';
+            }
+        } else if (level === 4 && tr.getAttribute('type') === 'case') {
+            tr.className = '';
+        }
+    }
+}
+
+function showClassDetail(cid, count) {
+    var tr_list = document.querySelectorAll('tr[cid='+cid+']');
+    var toHide = 1;
+
+    for (var i = 0; i < count; i++) {
+        if (tr_list[i].className) {
+            toHide = 0;
+        }
+    }
+    for (var i = 0; i < count; i++) {
+        if (toHide) {
+            tr_list[i].className = 'hiddenRow';
+        } else {
+            tr_list[i].className = '';
+        }
+    }
+}
+
+function showTestDetail(div_id){
+    var details_div = document.getElementById(div_id);
+    var displayState = details_div.style.display;
+    if (displayState !== 'block' ) {
+        details_div.style.display = 'block';
+    } else {
+        details_div.style.display = 'none';
+    }
+}
+function html_escape(s) {
+    s = s.replace(/&/g,'&amp;');
+    s = s.replace(/</g,'&lt;');
+    s = s.replace(/>/g,'&gt;');
+    return s;
+}
+
+
+
+            (function() {
+                window.chartColors = {
+                    red: 'rgb(255, 99, 132)',
+                    orange: 'rgb(255, 159, 64)',
+                    yellow: 'rgb(255, 205, 86)',
+                    green: 'rgb(0 255 127)',
+                    blue: 'rgb(54, 162, 235)',
+                    purple: 'rgb(153, 102, 255)',
+                    grey: 'rgb(201, 203, 207)'
+                };
+                var config = {
+                    type: 'doughnut',
+                    data: {
+                        datasets: [{
+                            data: [
+                                0,
+                                0,
+                                1,
+                                0,
+                            ],
+                            backgroundColor: [
+                                window.chartColors.green,
+                                window.chartColors.red,
+                                window.chartColors.blue,
+                                window.chartColors.grey
+                            ],
+                            hoverBackgroundColor: [
+                                window.chartColors.green,
+                                window.chartColors.red,
+                                window.chartColors.blue,
+                                window.chartColors.grey
+                            ],
+                            label: 'Dataset 1'
+                        }],
+                        labels: [
+                            '通过',
+                            '失败',
+                            '错误',
+                            '跳过',
+                        ]
+                    },
+                    options: {
+                        responsive: true,
+                        legend: {
+                            position: 'top',
+                        },
+                        title: {
+                            display: true,
+                            text: '测试结果占比'
+                        },
+                        animation: {
+                            animateScale: true,
+                            animateRotate: true
+                        }
+                    }
+                };
+                window.onload = function() {
+                    var ctx = document.getElementById('chart-area').getContext('2d');
+                    window.myDoughnut = new Chart(ctx, config);
+                };
+            })();
+        </script>
+    </div>
+    </body>
+</html>

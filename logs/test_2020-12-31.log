@@ -1,0 +1,1210 @@
+2020-12-31 15:27:54,613 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}0000
+2020-12-31 15:27:54,838 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2020-12-31 15:27:54,841 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:54,844 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api3c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 15:27:55,002 | 56 | common.Log | DEBUG | Log.py | debug | 'returnCode'
+2020-12-31 15:27:55,003 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,004 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,033 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,033 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,034 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,034 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,036 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,036 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,037 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,037 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,080 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,080 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,081 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,081 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,082 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,082 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,084 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,084 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,118 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,118 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,119 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,119 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,121 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,121 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,122 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,122 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,149 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,149 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,151 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,151 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,153 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,153 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,155 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,155 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,184 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,184 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,186 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,186 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,188 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,188 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,190 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,190 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,214 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,214 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,215 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,215 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,217 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,217 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,218 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,218 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,246 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,246 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,247 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,247 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,249 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,249 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,251 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,251 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,288 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,288 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,290 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,290 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,291 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,291 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,293 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,293 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,322 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,322 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,324 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,324 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,326 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,326 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,327 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,327 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,358 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,358 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,360 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,360 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,362 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,362 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,364 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,364 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,397 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,397 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,399 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,399 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,400 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,400 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,402 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,402 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,429 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,429 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,431 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,431 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,433 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,433 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,435 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,435 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,462 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,462 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,464 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,464 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,465 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,465 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,468 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,468 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,497 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,497 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,500 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,500 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,501 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,501 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,503 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,503 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,535 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,535 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,537 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,537 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,540 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,540 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,541 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,541 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,567 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,567 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,568 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,568 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,569 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,569 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,571 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,571 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,596 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,596 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,598 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,598 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,599 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,599 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,601 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,601 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,628 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,628 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,630 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,630 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,631 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,631 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,632 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,632 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,660 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,660 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,662 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,662 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,663 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,663 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,664 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,664 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,695 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,695 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,696 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,696 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,698 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,698 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,699 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,699 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,724 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,724 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,726 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,726 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,727 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,727 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,728 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,728 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,753 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,753 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,755 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,755 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,757 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,757 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,758 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,758 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,783 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,783 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,785 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,785 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,786 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,786 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,787 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,787 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,808 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,808 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,810 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,810 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,812 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,812 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,814 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,814 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,846 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,846 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,847 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,847 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,849 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,849 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,850 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,850 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,893 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,893 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,895 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,895 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,897 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,897 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,898 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,898 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,929 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,929 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,931 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,931 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,933 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,933 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,935 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,935 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,974 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,974 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:55,976 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,976 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:55,978 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,978 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:55,979 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:55,979 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,019 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,019 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,020 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,020 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,022 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,022 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,024 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,024 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,054 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,054 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,055 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,055 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,057 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,057 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,058 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,058 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,083 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,083 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,085 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,085 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,086 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,086 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,088 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,088 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,111 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,111 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,113 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,113 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,115 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,115 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,116 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,116 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,141 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,141 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,143 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,143 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,144 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,144 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,146 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,146 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,169 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,169 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,171 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,171 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,174 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,174 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,175 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,175 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,199 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,199 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,201 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,201 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,202 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,202 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,204 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,204 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,228 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,228 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,230 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,230 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,232 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,232 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,233 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,233 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,263 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,263 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,264 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,264 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,266 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,266 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,268 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,268 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,296 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,296 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,298 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,298 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,299 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,299 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,301 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,301 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,332 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,332 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,333 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,333 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,335 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,335 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,336 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,336 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,360 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,360 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,362 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,362 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,364 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,364 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,365 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,365 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:27:56,398 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,398 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:27:56,400 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,400 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:27:56,402 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:27:56,402 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,382 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}0000
+2020-12-31 15:28:36,471 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: x-efps-app-id/x-efps-sign的值为空"}.
+2020-12-31 15:28:36,471 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: x-efps-app-id/x-efps-sign的值为空"}.
+2020-12-31 15:28:36,472 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: x-efps-app-id/x-efps-sign的值为空"}
+2020-12-31 15:28:36,472 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: x-efps-app-id/x-efps-sign的值为空"}
+2020-12-31 15:28:36,474 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 15:28:36,474 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 15:28:36,475 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api3c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 15:28:36,475 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api3c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 15:28:36,585 | 56 | common.Log | DEBUG | Log.py | debug | 'returnCode'
+2020-12-31 15:28:36,585 | 56 | common.Log | DEBUG | Log.py | debug | 'returnCode'
+2020-12-31 15:28:36,586 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,586 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,588 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,588 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,626 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,626 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,627 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,627 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,628 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,628 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,630 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,630 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,659 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,659 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,660 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,660 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,661 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,661 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,663 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,663 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,689 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,689 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,691 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,691 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,693 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,693 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,694 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,694 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,736 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,736 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,738 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,738 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,739 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,739 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,740 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,740 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,767 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,767 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,768 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,768 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,769 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,769 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,771 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,771 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,802 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,802 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,803 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,803 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,805 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,805 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,806 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,806 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,833 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,833 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,835 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,835 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,836 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,836 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,837 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,837 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,868 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,868 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,869 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,869 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,871 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,871 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,875 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,875 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,898 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,898 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,899 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,899 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,900 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,900 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,902 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,902 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,930 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,930 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,932 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,932 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,934 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,934 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,935 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,935 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,967 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,967 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,969 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,969 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:36,970 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,970 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:36,972 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,972 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:36,997 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:36,997 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,000 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,000 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,002 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,002 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,004 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,004 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,030 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,030 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,031 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,031 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,033 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,033 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,034 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,034 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,056 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,056 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,057 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,057 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,059 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,059 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,060 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,060 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,085 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,085 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,086 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,086 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,087 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,087 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,090 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,090 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,112 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,112 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,113 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,113 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,115 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,115 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,116 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,116 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,143 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,143 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,147 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,147 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,148 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,148 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,150 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,150 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,176 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,176 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,179 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,179 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,181 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,181 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,182 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,182 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,206 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,206 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,209 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,209 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,210 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,210 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,212 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,212 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,236 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,236 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,238 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,238 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,239 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,239 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,240 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,240 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,265 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,265 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,267 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,267 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,268 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,268 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,269 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,269 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,290 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,290 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,292 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,292 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,294 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,294 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,296 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,296 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,319 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,319 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,321 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,321 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,322 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,322 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,323 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,323 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,347 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,347 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,350 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,350 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,352 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,352 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,354 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,354 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,380 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,380 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,382 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,382 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,385 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,385 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,386 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,386 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,414 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,414 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,415 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,415 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,416 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,416 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,418 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,418 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,443 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,443 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,445 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,445 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,446 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,446 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,447 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,447 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,470 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,470 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,471 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,471 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,473 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,473 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,474 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,474 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,503 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,503 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,505 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,505 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,506 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,506 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,507 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,507 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,531 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,531 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,533 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,533 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,535 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,535 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,536 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,536 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,579 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,579 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,581 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,581 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,582 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,582 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,584 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,584 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,608 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,608 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,611 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,611 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,612 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,612 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,613 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,613 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,642 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,642 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,645 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,645 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,648 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,648 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,650 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,650 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,676 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,676 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,678 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,678 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,680 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,680 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,681 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,681 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,714 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,714 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,716 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,716 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,718 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,718 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,720 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,720 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,742 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,742 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,748 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,748 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,750 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,750 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,751 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,751 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,780 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,780 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,781 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,781 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,783 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,783 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,784 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,784 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,815 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,815 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,816 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,816 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,817 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,817 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,819 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,819 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,843 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,843 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,846 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,846 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,848 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,848 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,849 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,849 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,872 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,872 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,873 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,873 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,875 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,875 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,876 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,876 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:28:37,900 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,900 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:28:37,902 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,902 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:28:37,904 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:37,904 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:28:59,391 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.90:8110/pay/paymentQueryGET{"outTradeNo":"20200722153543979", "customerCode":"5651200003063343"}0000
+2020-12-31 15:28:59,464 | 42 | common.Log | INFO | Log.py | info | get接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"Success","nonceStr":"10d7307b67e146efb64ba689b56b4ea4","customerCode":"5651200003063343","outTradeNo":"20200722153543979","transactionNo":"32202007227313581775348","amount":5,"payState":"00","payTime":"20200722153532","procedureFee":4,"attachData":"attachData","channelOrder":"172020072222001400951459830013","openId":null,"buyerLogonId":"159******63","buyerId":"2088702909300958","terminalNo":null,"nfcTagId":null,"payMethod":"支付宝被扫支付","cashAmount":5,"couponAmount":null,"payerInfo":{"cardType":"C","fundChannel":"BANKCARD"},"promotionDetail":null,"terminalName":null,"remark":null,"subOpenId":null}. 
+2020-12-31 15:28:59,464 | 42 | common.Log | INFO | Log.py | info | get接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"Success","nonceStr":"10d7307b67e146efb64ba689b56b4ea4","customerCode":"5651200003063343","outTradeNo":"20200722153543979","transactionNo":"32202007227313581775348","amount":5,"payState":"00","payTime":"20200722153532","procedureFee":4,"attachData":"attachData","channelOrder":"172020072222001400951459830013","openId":null,"buyerLogonId":"159******63","buyerId":"2088702909300958","terminalNo":null,"nfcTagId":null,"payMethod":"支付宝被扫支付","cashAmount":5,"couponAmount":null,"payerInfo":{"cardType":"C","fundChannel":"BANKCARD"},"promotionDetail":null,"terminalName":null,"remark":null,"subOpenId":null}. 
+2020-12-31 15:28:59,487 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"Success","nonceStr":"10d7307b67e146efb64ba689b56b4ea4","customerCode":"5651200003063343","outTradeNo":"20200722153543979","transactionNo":"32202007227313581775348","amount":5,"payState":"00","payTime":"20200722153532","procedureFee":4,"attachData":"attachData","channelOrder":"172020072222001400951459830013","openId":null,"buyerLogonId":"159******63","buyerId":"2088702909300958","terminalNo":null,"nfcTagId":null,"payMethod":"支付宝被扫支付","cashAmount":5,"couponAmount":null,"payerInfo":{"cardType":"C","fundChannel":"BANKCARD"},"promotionDetail":null,"terminalName":null,"remark":null,"subOpenId":null}
+2020-12-31 15:28:59,487 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"Success","nonceStr":"10d7307b67e146efb64ba689b56b4ea4","customerCode":"5651200003063343","outTradeNo":"20200722153543979","transactionNo":"32202007227313581775348","amount":5,"payState":"00","payTime":"20200722153532","procedureFee":4,"attachData":"attachData","channelOrder":"172020072222001400951459830013","openId":null,"buyerLogonId":"159******63","buyerId":"2088702909300958","terminalNo":null,"nfcTagId":null,"payMethod":"支付宝被扫支付","cashAmount":5,"couponAmount":null,"payerInfo":{"cardType":"C","fundChannel":"BANKCARD"},"promotionDetail":null,"terminalName":null,"remark":null,"subOpenId":null}
+2020-12-31 15:28:59,488 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.90:8020/txs/pay/NativePaymentPOST{"attachData":"attachData","channelType":"01","clientIp":"127.0.0.1","customerCode":"5651200003063343","noCreditCards":false,"nonceStr":"48b099c9b1cc4f0b94d2a703da9251c8","notifyUrl":"http://www.baidu.com","orderInfo":{"businessType":"test","goodsList":[{"amount":10,"category":"test","goodsId":"6945726400021","name":"coffee","number":"1","price":1,"remark":"coffce"}],"id":"test"},"outTradeNo":"20201120094951300","payAmount":5,"payCurrency":"CNY","payMethod":"7","redirectUrl":"http://www.baidu.com","subCustomerCode":"","terminalNo":"10001","transactionEndTime":"","transactionStartTime":"20201120092051"}0000
+2020-12-31 15:28:59,488 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.90:8020/txs/pay/NativePaymentPOST{"attachData":"attachData","channelType":"01","clientIp":"127.0.0.1","customerCode":"5651200003063343","noCreditCards":false,"nonceStr":"48b099c9b1cc4f0b94d2a703da9251c8","notifyUrl":"http://www.baidu.com","orderInfo":{"businessType":"test","goodsList":[{"amount":10,"category":"test","goodsId":"6945726400021","name":"coffee","number":"1","price":1,"remark":"coffce"}],"id":"test"},"outTradeNo":"20201120094951300","payAmount":5,"payCurrency":"CNY","payMethod":"7","redirectUrl":"http://www.baidu.com","subCustomerCode":"","terminalNo":"10001","transactionEndTime":"","transactionStartTime":"20201120092051"}0000
+2020-12-31 15:28:59,577 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"0927","returnMsg":"交易开始时间偏差过大","nonceStr":"63cc5151f71a463980bc580ea36992fc","codeUrl":null,"outTradeNo":"20201120094951300","amount":null}.
+2020-12-31 15:28:59,577 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"0927","returnMsg":"交易开始时间偏差过大","nonceStr":"63cc5151f71a463980bc580ea36992fc","codeUrl":null,"outTradeNo":"20201120094951300","amount":null}.
+2020-12-31 15:28:59,579 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0927","returnMsg":"交易开始时间偏差过大","nonceStr":"63cc5151f71a463980bc580ea36992fc","codeUrl":null,"outTradeNo":"20201120094951300","amount":null}
+2020-12-31 15:28:59,579 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0927","returnMsg":"交易开始时间偏差过大","nonceStr":"63cc5151f71a463980bc580ea36992fc","codeUrl":null,"outTradeNo":"20201120094951300","amount":null}
+2020-12-31 15:28:59,580 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 15:28:59,580 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 15:29:40,713 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}0000
+2020-12-31 15:29:40,793 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: x-efps-app-id/x-efps-sign的值为空"}.
+2020-12-31 15:29:40,793 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: x-efps-app-id/x-efps-sign的值为空"}.
+2020-12-31 15:29:40,794 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: x-efps-app-id/x-efps-sign的值为空"}
+2020-12-31 15:29:40,794 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: x-efps-app-id/x-efps-sign的值为空"}
+2020-12-31 15:29:40,795 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 15:29:40,795 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 15:29:40,796 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api3c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 15:29:40,796 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api3c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 15:29:40,916 | 56 | common.Log | DEBUG | Log.py | debug | 'returnCode'
+2020-12-31 15:29:40,916 | 56 | common.Log | DEBUG | Log.py | debug | 'returnCode'
+2020-12-31 15:29:40,919 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:40,919 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:40,921 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:40,921 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:40,944 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:40,944 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:40,946 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:40,946 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:40,947 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:40,947 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:40,949 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:40,949 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:40,970 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:40,970 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:40,972 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:40,972 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:40,974 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:40,974 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:40,975 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:40,975 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:40,999 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:40,999 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,002 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,002 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,005 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,005 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,006 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,006 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,028 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,028 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,030 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,030 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,031 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,031 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,032 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,032 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,058 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,058 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,059 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,059 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,060 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,060 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,061 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,061 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,086 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,086 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,087 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,087 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,089 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,089 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,090 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,090 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,131 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,131 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,133 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,133 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,134 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,134 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,135 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,135 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,168 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,168 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,170 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,170 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,171 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,171 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,172 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,172 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,195 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,195 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,196 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,196 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,198 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,198 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,199 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,199 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,221 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,221 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,223 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,223 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,225 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,225 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,226 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,226 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,248 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,248 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,249 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,249 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,251 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,251 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,252 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,252 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,283 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,283 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,285 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,285 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,287 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,287 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,288 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,288 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,311 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,311 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,313 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,313 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,314 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,314 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,316 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,316 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,339 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,339 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,341 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,341 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,342 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,342 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,343 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,343 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,370 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,370 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,371 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,371 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,373 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,373 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,374 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,374 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,396 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,396 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,398 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,398 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,399 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,399 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,400 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,400 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,423 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,423 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,425 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,425 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,426 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,426 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,428 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,428 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,453 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,453 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,455 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,455 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,456 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,456 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,457 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,457 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,491 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,491 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,492 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,492 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,493 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,493 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,495 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,495 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,518 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,518 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,520 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,520 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,522 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,522 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,524 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,524 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,549 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,549 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,550 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,550 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,551 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,551 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,553 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,553 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,583 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,583 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,584 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,584 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,586 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,586 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,587 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,587 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,623 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,623 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,625 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,625 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,626 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,626 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,627 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,627 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,654 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,654 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,655 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,655 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,657 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,657 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,658 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,658 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,683 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,683 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,684 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,684 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,686 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,686 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,688 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,688 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,711 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,711 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,712 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,712 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,714 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,714 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,715 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,715 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,739 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,739 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,741 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,741 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,742 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,742 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,743 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,743 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,764 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,764 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,766 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,766 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,767 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,767 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,769 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,769 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,793 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,793 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,795 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,795 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,796 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,796 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,797 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,797 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,819 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,819 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,821 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,821 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,822 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,822 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,823 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,823 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,846 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,846 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,848 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,848 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,849 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,849 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,851 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,851 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,876 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,876 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,878 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,878 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,880 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,880 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,881 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,881 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,906 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,906 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,908 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,908 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,910 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,910 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,912 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,912 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,935 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,935 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,936 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,936 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,938 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,938 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,940 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,940 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,964 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,964 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,966 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,966 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,967 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,967 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,968 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,968 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,994 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,994 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:41,995 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,995 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:41,997 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,997 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:41,998 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:41,998 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:42,024 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:42,024 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:42,026 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:42,026 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:42,027 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:42,027 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:42,028 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:42,028 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:42,051 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:42,051 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:42,054 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:42,054 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:42,056 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:42,056 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:42,058 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:42,058 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:42,080 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:42,080 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:42,082 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:42,082 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:42,084 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:42,084 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:42,086 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:42,086 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:42,110 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:42,110 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:42,113 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:42,113 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:42,115 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:42,115 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:42,116 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:42,116 | 42 | common.Log | INFO | Log.py | info | 
+2020-12-31 15:29:42,141 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:42,141 | 42 | common.Log | INFO | Log.py | info | 接口请求方式有误！！！请确认字段【Method】值是否正确，正确值为大写的GET或POST。
+2020-12-31 15:29:42,143 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:42,143 | 56 | common.Log | DEBUG | Log.py | debug | exceptions must derive from BaseException
+2020-12-31 15:29:42,144 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:29:42,144 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:35:19,934 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}0000
+2020-12-31 15:35:20,012 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2020-12-31 15:35:20,012 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:35:20,013 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 15:35:20,070 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2020-12-31 15:35:20,071 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:37:11,155 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}0000
+2020-12-31 15:37:11,231 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2020-12-31 15:37:11,232 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:37:11,232 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 15:37:11,288 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2020-12-31 15:37:11,289 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:37:23,895 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}0000
+2020-12-31 15:37:23,977 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: x-efps-app-id/x-efps-sign的值为空"}.
+2020-12-31 15:37:23,977 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: x-efps-app-id/x-efps-sign的值为空"}.
+2020-12-31 15:37:23,978 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: x-efps-app-id/x-efps-sign的值为空"}
+2020-12-31 15:37:23,978 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: x-efps-app-id/x-efps-sign的值为空"}
+2020-12-31 15:37:23,979 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 15:37:23,979 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 15:37:23,981 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 15:37:23,981 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 15:37:24,036 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: x-efps-app-id/x-efps-sign的值为空"}.
+2020-12-31 15:37:24,036 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: x-efps-app-id/x-efps-sign的值为空"}.
+2020-12-31 15:37:24,038 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: x-efps-app-id/x-efps-sign的值为空"}
+2020-12-31 15:37:24,038 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: x-efps-app-id/x-efps-sign的值为空"}
+2020-12-31 15:37:24,039 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 15:37:24,039 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 15:40:15,452 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}0000
+2020-12-31 15:40:15,550 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 15:40:15,550 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 15:40:15,551 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 15:40:15,551 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 15:40:15,552 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 15:40:15,552 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 15:40:15,554 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 15:40:15,554 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 15:40:15,613 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 15:40:15,613 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 15:40:15,615 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 15:40:15,615 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 15:40:15,616 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 15:40:15,616 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 15:44:30,138 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}0000
+2020-12-31 15:44:30,214 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2020-12-31 15:44:30,215 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:44:30,216 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 15:44:30,272 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2020-12-31 15:44:30,273 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 15:47:09,830 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364f","outTradeNo":"20201231154554584","version":"v1.0"}0000
+2020-12-31 15:47:09,922 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 15:47:09,922 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 15:47:09,924 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 15:47:09,924 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 15:47:09,925 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 15:47:09,925 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 15:47:09,927 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 15:47:09,927 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 15:47:09,989 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 15:47:09,989 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 15:47:09,990 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 15:47:09,990 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 15:47:09,992 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 15:47:09,992 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 16:38:24,278 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364f","outTradeNo":"20201231154554584","version":"v1.0"}0000
+2020-12-31 16:38:24,364 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 16:38:24,364 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 16:38:24,366 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 16:38:24,366 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 16:38:24,367 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 16:38:24,367 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 16:38:24,368 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 16:38:24,368 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 16:38:24,429 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 16:38:24,429 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 16:38:24,431 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 16:38:24,431 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 16:38:24,432 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 16:38:24,432 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 16:39:04,184 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364f","outTradeNo":"20201231154554584","version":"v1.0"}0000
+2020-12-31 16:39:04,273 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 16:39:04,273 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 16:39:04,274 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 16:39:04,274 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 16:39:04,275 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 16:39:04,275 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 16:39:04,277 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 16:39:04,277 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 16:39:04,335 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 16:39:04,335 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 16:39:04,336 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 16:39:04,336 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 16:39:04,337 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 16:39:04,337 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 16:41:51,600 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364f","outTradeNo":"20201231154554584","version":"v1.0"}0000
+2020-12-31 16:41:51,680 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2020-12-31 16:41:51,681 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 16:45:25,610 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364f","outTradeNo":"20201231154554584","version":"v1.0"}0000
+2020-12-31 16:45:25,694 | 56 | common.Log | DEBUG | Log.py | debug | [Errno 13] Permission denied: 'G:/Git/pytest_testApi\\data/addMerchant.xls'
+2020-12-31 16:45:25,695 | 42 | common.Log | INFO | Log.py | info | 接口请求失败，请检查失败原因！
+2020-12-31 16:47:10,795 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364f","outTradeNo":"20201231164600000","version":"v1.0"}0000
+2020-12-31 16:47:10,882 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 16:47:10,882 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 16:47:10,883 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 16:47:10,883 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 16:47:10,885 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 16:47:10,885 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 16:52:26,804 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20201231164600000","version":"v1.0"}0000
+2020-12-31 16:52:26,890 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 16:52:26,890 | 42 | common.Log | INFO | Log.py | info | post接口请求失败！！！结果返回值为
+{"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}.
+2020-12-31 16:52:26,892 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 16:52:26,892 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2001","returnMsg":"验签失败: 证书验签失败"}
+2020-12-31 16:52:26,893 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 16:52:26,893 | 42 | common.Log | INFO | Log.py | info | 接口请求失败
+2020-12-31 17:03:16,301 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20201231164600000","version":"v1.0"}0000
+2020-12-31 17:03:16,590 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20201231164600000","transactionNo":"SMSSN2020123110009","authCodeNo":"SMSAC2020123110009","validSeconds":"600","nonceStr":"4754947386163285"}.
+2020-12-31 17:03:16,590 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20201231164600000","transactionNo":"SMSSN2020123110009","authCodeNo":"SMSAC2020123110009","validSeconds":"600","nonceStr":"4754947386163285"}.
+2020-12-31 17:03:16,610 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20201231164600000","transactionNo":"SMSSN2020123110009","authCodeNo":"SMSAC2020123110009","validSeconds":"600","nonceStr":"4754947386163285"}
+2020-12-31 17:03:16,610 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20201231164600000","transactionNo":"SMSSN2020123110009","authCodeNo":"SMSAC2020123110009","validSeconds":"600","nonceStr":"4754947386163285"}
+2020-12-31 17:06:44,519 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20201231164600000","version":"v1.0"}0000
+2020-12-31 17:06:44,923 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20201231164600000","transactionNo":"SMSSN2020123110010","authCodeNo":"SMSAC2020123110010","validSeconds":"600","nonceStr":"4755155713599504"}.
+2020-12-31 17:06:44,923 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20201231164600000","transactionNo":"SMSSN2020123110010","authCodeNo":"SMSAC2020123110010","validSeconds":"600","nonceStr":"4755155713599504"}.
+2020-12-31 17:06:44,967 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20201231164600000","transactionNo":"SMSSN2020123110010","authCodeNo":"SMSAC2020123110010","validSeconds":"600","nonceStr":"4755155713599504"}
+2020-12-31 17:06:44,967 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20201231164600000","transactionNo":"SMSSN2020123110010","authCodeNo":"SMSAC2020123110010","validSeconds":"600","nonceStr":"4755155713599504"}
+2020-12-31 17:06:44,969 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 17:06:44,969 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 17:06:45,016 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:商户编号与证书不一致","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2020-12-31 17:06:45,016 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:商户编号与证书不一致","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2020-12-31 17:06:45,036 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:商户编号与证书不一致","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2020-12-31 17:06:45,036 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:商户编号与证书不一致","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2020-12-31 17:07:55,156 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"SH001","mobile":"18933974205","nonceStr":"b3b2d9ed8d4548f4925dbbdb0d57364c","outTradeNo":"20201231164600000","version":"v1.0"}0000
+2020-12-31 17:07:55,565 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20201231164600000","transactionNo":"SMSSN2020123110011","authCodeNo":"SMSAC2020123110011","validSeconds":"600","nonceStr":"4755226338522100"}.
+2020-12-31 17:07:55,565 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20201231164600000","transactionNo":"SMSSN2020123110011","authCodeNo":"SMSAC2020123110011","validSeconds":"600","nonceStr":"4755226338522100"}.
+2020-12-31 17:07:55,592 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20201231164600000","transactionNo":"SMSSN2020123110011","authCodeNo":"SMSAC2020123110011","validSeconds":"600","nonceStr":"4755226338522100"}
+2020-12-31 17:07:55,592 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"0000","returnMsg":"处理成功","outTradeNo":"20201231164600000","transactionNo":"SMSSN2020123110011","authCodeNo":"SMSAC2020123110011","validSeconds":"600","nonceStr":"4755226338522100"}
+2020-12-31 17:07:55,594 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 17:07:55,594 | 42 | common.Log | INFO | Log.py | info | http://172.20.4.91:8650/api2c/sms/sendInfoPOST{"appId":"HY001","businessType":"0099","cardNo":"0015300528104506","devId":"","mobile":"18933974205","nonceStr":"d817b584408e40e4aec2da69f1ab51e9","outTradeNo":"20201231152120861","version":"v1.0"}2004
+2020-12-31 17:07:55,651 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:商户编号与证书不一致","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2020-12-31 17:07:55,651 | 42 | common.Log | INFO | Log.py | info | post接口请求成功，结果返回值为
+{"returnCode":"2004","returnMsg":"参数错误:商户编号与证书不一致","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}.
+2020-12-31 17:07:55,672 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:商户编号与证书不一致","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}
+2020-12-31 17:07:55,672 | 42 | common.Log | INFO | Log.py | info | {"returnCode":"2004","returnMsg":"参数错误:商户编号与证书不一致","outTradeNo":null,"transactionNo":null,"authCodeNo":null,"validSeconds":null,"nonceStr":null}

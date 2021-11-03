@@ -1,0 +1,26 @@
+2020-09-27 16:26:25,508 | 55 | common.Log | DEBUG | Log.py | debug | 'outTradeNo'
+2020-09-27 16:27:18,244 | 55 | common.Log | DEBUG | Log.py | debug | 'outTradeNo'
+2020-09-27 16:28:58,066 | 55 | common.Log | DEBUG | Log.py | debug | 'outTradeNo'
+2020-09-27 16:29:41,590 | 55 | common.Log | DEBUG | Log.py | debug | 'outTradeNo'
+2020-09-27 16:31:08,050 | 55 | common.Log | DEBUG | Log.py | debug | 'outTradeNo'
+2020-09-27 16:31:28,354 | 55 | common.Log | DEBUG | Log.py | debug | 'outTradeNo'
+2020-09-27 16:45:35,106 | 55 | common.Log | DEBUG | Log.py | debug | 第1个接口'支付宝主扫'请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"Success","nonceStr":"20b1cc7edd304cafbfdd48653ed0e403","codeUrl":"https://qr.alipay.com/bax096604xvtscpjbyqn50dd","outTradeNo":"20200927094951300","amount":5}.
+2020-09-27 16:45:36,918 | 55 | common.Log | DEBUG | Log.py | debug | 修改clr状态成功！
+2020-09-27 16:45:36,945 | 55 | common.Log | DEBUG | Log.py | debug | 交易未返回终态，请检查错误原因！
+2020-09-27 16:45:36,946 | 41 | common.Log | INFO | Log.py | info | {'returnCode': '0000', 'returnMsg': None, 'nonceStr': 'd6c771c8a9884190a8300e355ff10636', 'customerCode': '5651200003063343', 'outTradeNo': '20200927094951300', 'transactionNo': None, 'amount': 5, 'payState': '03', 'payTime': None, 'procedureFee': 1, 'attachData': 'attachData', 'channelOrder': None, 'openId': None, 'buyerLogonId': None, 'buyerId': None, 'terminalNo': None, 'nfcTagId': None, 'payMethod': '支付宝主扫支付', 'cashAmount': 5, 'couponAmount': None, 'payerInfo': {}, 'promotionDetail': None, 'terminalName': None, 'remark': None}
+2020-09-27 16:45:36,946 | 41 | common.Log | INFO | Log.py | info | [('20200927094951300', '0', '03', '交易异常')]
+2020-09-27 16:45:36,947 | 55 | common.Log | DEBUG | Log.py | debug | <html><body>主扫交易自动化测试，共有 1 个异常交易，列表如下：</p><table><tr><th style="width:100px;text-align:left">外部订单号</th><th style="width:200px;text-align:left">易票联订单号</th><th   style="text-align:left">交易状态</th><th   style="text-align:left">交易情况</th></tr><tr><td style="text-align:left">20200927094951300</td><td style="text-align:left">0</td><td style="text-align:left">03</td><td style="text-align:left">交易异常</td></tr>
+2020-09-27 16:46:04,419 | 41 | common.Log | INFO | Log.py | info | None
+2020-09-27 16:46:21,909 | 55 | common.Log | DEBUG | Log.py | debug | 第1个接口'支付宝主扫'请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"Success","nonceStr":"6a57e4847c5c4207a9eef0b2a3ca2108","codeUrl":"https://qr.alipay.com/bax01657pn4jcxq3298w00a2","outTradeNo":"20200927094951301","amount":5}.
+2020-09-27 16:46:22,524 | 55 | common.Log | DEBUG | Log.py | debug | 修改clr状态成功！
+2020-09-27 16:46:22,540 | 55 | common.Log | DEBUG | Log.py | debug | 交易成功
+2020-09-27 16:46:22,542 | 41 | common.Log | INFO | Log.py | info | {'returnCode': '0000', 'returnMsg': None, 'nonceStr': '73c931279919478b9332c47b37c08064', 'customerCode': '5651200003063343', 'outTradeNo': '20200927094951301', 'transactionNo': '32202009274850199687903', 'amount': 5, 'payState': '00', 'payTime': '20200927164552', 'procedureFee': 1, 'attachData': 'attachData', 'channelOrder': None, 'openId': None, 'buyerLogonId': None, 'buyerId': None, 'terminalNo': None, 'nfcTagId': None, 'payMethod': '支付宝主扫支付', 'cashAmount': 5, 'couponAmount': None, 'payerInfo': {}, 'promotionDetail': None, 'terminalName': None, 'remark': None}
+2020-09-27 16:46:22,543 | 55 | common.Log | DEBUG | Log.py | debug | 本次测试，所有用例全部通过
+2020-09-27 16:49:57,513 | 55 | common.Log | DEBUG | Log.py | debug | 第1个接口'支付宝主扫'请求成功，结果返回值为
+{"returnCode":"0000","returnMsg":"Success","nonceStr":"478dfecf57d042d6a5a42f8a0a845fb6","codeUrl":"https://qr.alipay.com/bax09763orwltwsww9bv8028","outTradeNo":"20200927094951302","amount":5}.
+2020-09-27 16:49:58,014 | 55 | common.Log | DEBUG | Log.py | debug | 修改clr状态成功！
+2020-09-27 16:49:58,031 | 55 | common.Log | DEBUG | Log.py | debug | 交易成功
+2020-09-27 16:49:58,032 | 41 | common.Log | INFO | Log.py | info | {'returnCode': '0000', 'returnMsg': None, 'nonceStr': 'b79bec2d26064736ad6899241474dacc', 'customerCode': '5651200003063343', 'outTradeNo': '20200927094951302', 'transactionNo': '32202009276774125986904', 'amount': 5, 'payState': '00', 'payTime': '20200927164927', 'procedureFee': 1, 'attachData': 'attachData', 'channelOrder': None, 'openId': None, 'buyerLogonId': None, 'buyerId': None, 'terminalNo': None, 'nfcTagId': None, 'payMethod': '支付宝主扫支付', 'cashAmount': 5, 'couponAmount': None, 'payerInfo': {}, 'promotionDetail': None, 'terminalName': None, 'remark': None}
+2020-09-27 16:49:58,033 | 55 | common.Log | DEBUG | Log.py | debug | 本次测试，所有用例全部通过

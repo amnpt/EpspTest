@@ -1,0 +1,3 @@
+2020-09-21 10:34:22,620 | 54 | common.Log | DEBUG | Log.py | debug | None
+2020-09-21 10:42:44,968 | 54 | common.Log | DEBUG | Log.py | debug | test_getCase
+2020-09-21 11:10:15,378 | 54 | common.Log | DEBUG | Log.py | debug | debug
