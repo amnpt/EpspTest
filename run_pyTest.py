@@ -18,7 +18,7 @@ database = get_Config.get_database_Url()
 
 
 if __name__ == "__main__":
-    report = 'G:/Git/pytest_testApi/report/report_' + time.strftime("%Y%m%d%H%M%S",time.localtime(time.time())) + '.html'
+    report = 'G:/AutoTest/EpspAutoTest/report/report_' + time.strftime("%Y%m%d%H%M%S",time.localtime(time.time())) + '.html'
     #pytest.main(["-s", "G:/Git/pytest_testApi/testCase/apiTest", "--pytest_report", report])
     pytest.main(["-s", "G:/AutoTest/EpspAutoTest/testCase/apiTest/test_refundApply.py", "--pytest_report", 'G:/AutoTest/EpspAutoTest/report/report_' + time.strftime("%Y-%m-%d",time.localtime(time.time())) + '.html'])
     #send_email(report)   #163邮箱，需要开启 IMAP/SMTP服务
