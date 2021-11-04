@@ -15,7 +15,7 @@ import cx_Oracle
 
 
 if __name__ == "__main__":
-    report = 'G:/AutoTest/EpspAutoTest/report/report_' + time.strftime("%Y%m%d%H%M%S",time.localtime(time.time())) + '.html'
+    #report = 'G:/AutoTest/EpspAutoTest/report/report_' + time.strftime("%Y%m%d%H%M%S",time.localtime(time.time())) + '.html'
     #pytest.main(["-s", "G:/Git/pytest_testApi/testCase/apiTest", "--pytest_report", report])
-    pytest.main(["-s", "G:/AutoTest/EpspAutoTest/testCase/apiTest/test_splitRefund.py", "--pytest_report", 'G:/AutoTest/EpspAutoTest/report/report_' + report])
+    pytest.main(["-s", "G:/AutoTest/EpspAutoTest/testCase/apiTest/test_splitRefund.py", "--pytest_report",'G:/AutoTest/EpspAutoTest/report/report_' + time.strftime("%Y%m%d%H%M%S",time.localtime(time.time())) + '.html'])
     #send_email(report)   #163邮箱，需要开启 IMAP/SMTP服务
